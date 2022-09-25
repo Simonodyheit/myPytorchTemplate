@@ -1,0 +1,458 @@
+[09/24 20:17:47] SegOnCarvana_1664021850 INFO: Description: This is a vanilla trainer to demonstrate the template usage
+[09/24 20:17:47] SegOnCarvana_1664021850 INFO: Model: [UNet], Dataset: [Carvana], Lr_scheduler: [step], optimizer: [adamW], batch size: [4]; All saved in ./Results/Carvana/1664021850
+[09/24 20:17:47] SegOnCarvana_1664021850 INFO: Config saved to ./Results/Carvana/1664021850/config_SegOnCarvana_1664021850.json
+[09/24 20:17:47] SegOnCarvana_1664021850 INFO: Current_device: GeForce RTX 2080 Ti
+[09/24 20:17:49] SegOnCarvana_1664021850 INFO: Epoch:[001/099], Iteration:[00001/00086], Train_loss_all:1.214288
+[09/24 20:18:07] SegOnCarvana_1664021850 INFO: Epoch:[001/099], Iteration:[00086/00086], Train_loss_all:0.179445
+[09/24 20:18:08] SegOnCarvana_1664021850 INFO: Epoch:1: Used time:20.69s; Lr:3.00e-04
+[09/24 20:18:08] SegOnCarvana_1664021850 INFO: Epoch:1: Avg train loss:0.2968190995066665
+[09/24 20:18:10] SegOnCarvana_1664021850 INFO: Epoch:[001/099], Iteration:[00001/00015], Val_loss_all:0.163342
+[09/24 20:18:11] SegOnCarvana_1664021850 INFO: Epoch:[001/099], Iteration:[00015/00015], Val_loss_all:0.175550
+[09/24 20:18:11] SegOnCarvana_1664021850 INFO: Epoch:[001/099], Avg val loss:0.17570298413435617
+[09/24 20:18:11] SegOnCarvana_1664021850 INFO: Avg dice: 0.9522055387496948
+[09/24 20:18:11] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[001/099].
+[09/24 20:18:17] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:18:18] SegOnCarvana_1664021850 INFO: Epoch:[002/099], Iteration:[00001/00086], Train_loss_all:0.168301
+[09/24 20:18:37] SegOnCarvana_1664021850 INFO: Epoch:[002/099], Iteration:[00086/00086], Train_loss_all:0.084827
+[09/24 20:18:37] SegOnCarvana_1664021850 INFO: Epoch:2: Used time:20.07s; Lr:3.00e-04
+[09/24 20:18:37] SegOnCarvana_1664021850 INFO: Epoch:2: Avg train loss:0.12183408595101777
+[09/24 20:18:38] SegOnCarvana_1664021850 INFO: Epoch:[002/099], Iteration:[00001/00015], Val_loss_all:0.083705
+[09/24 20:18:40] SegOnCarvana_1664021850 INFO: Epoch:[002/099], Iteration:[00015/00015], Val_loss_all:0.082211
+[09/24 20:18:40] SegOnCarvana_1664021850 INFO: Epoch:[002/099], Avg val loss:0.08772908498843511
+[09/24 20:18:40] SegOnCarvana_1664021850 INFO: Avg dice: 0.9745720028877258
+[09/24 20:18:40] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[002/099].
+[09/24 20:18:46] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:18:48] SegOnCarvana_1664021850 INFO: Epoch:[003/099], Iteration:[00001/00086], Train_loss_all:0.095809
+[09/24 20:19:06] SegOnCarvana_1664021850 INFO: Epoch:[003/099], Iteration:[00086/00086], Train_loss_all:0.053341
+[09/24 20:19:06] SegOnCarvana_1664021850 INFO: Epoch:3: Used time:20.01s; Lr:3.00e-04
+[09/24 20:19:06] SegOnCarvana_1664021850 INFO: Epoch:3: Avg train loss:0.07292814305875191
+[09/24 20:19:08] SegOnCarvana_1664021850 INFO: Epoch:[003/099], Iteration:[00001/00015], Val_loss_all:0.054070
+[09/24 20:19:10] SegOnCarvana_1664021850 INFO: Epoch:[003/099], Iteration:[00015/00015], Val_loss_all:0.054489
+[09/24 20:19:10] SegOnCarvana_1664021850 INFO: Epoch:[003/099], Avg val loss:0.056315658738215764
+[09/24 20:19:10] SegOnCarvana_1664021850 INFO: Avg dice: 0.9816006422042847
+[09/24 20:19:10] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[003/099].
+[09/24 20:19:12] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:19:13] SegOnCarvana_1664021850 INFO: Epoch:[004/099], Iteration:[00001/00086], Train_loss_all:0.055321
+[09/24 20:19:28] SegOnCarvana_1664021850 INFO: Epoch:[004/099], Iteration:[00086/00086], Train_loss_all:0.045960
+[09/24 20:19:29] SegOnCarvana_1664021850 INFO: Epoch:4: Used time:16.23s; Lr:3.00e-04
+[09/24 20:19:29] SegOnCarvana_1664021850 INFO: Epoch:4: Avg train loss:0.05384041745822097
+[09/24 20:19:29] SegOnCarvana_1664021850 INFO: Epoch:[004/099], Iteration:[00001/00015], Val_loss_all:0.064106
+[09/24 20:19:31] SegOnCarvana_1664021850 INFO: Epoch:[004/099], Iteration:[00015/00015], Val_loss_all:0.065196
+[09/24 20:19:31] SegOnCarvana_1664021850 INFO: Epoch:[004/099], Avg val loss:0.05316334317127864
+[09/24 20:19:31] SegOnCarvana_1664021850 INFO: Avg dice: 0.9792451858520508
+[09/24 20:19:31] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[004/099].
+[09/24 20:19:34] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:19:35] SegOnCarvana_1664021850 INFO: Epoch:[005/099], Iteration:[00001/00086], Train_loss_all:0.045479
+[09/24 20:19:46] SegOnCarvana_1664021850 INFO: Epoch:[005/099], Iteration:[00086/00086], Train_loss_all:0.037045
+[09/24 20:19:46] SegOnCarvana_1664021850 INFO: Epoch:5: Used time:11.97s; Lr:3.00e-04
+[09/24 20:19:46] SegOnCarvana_1664021850 INFO: Epoch:5: Avg train loss:0.042126029513256495
+[09/24 20:19:47] SegOnCarvana_1664021850 INFO: Epoch:[005/099], Iteration:[00001/00015], Val_loss_all:0.041009
+[09/24 20:19:49] SegOnCarvana_1664021850 INFO: Epoch:[005/099], Iteration:[00015/00015], Val_loss_all:0.031523
+[09/24 20:19:49] SegOnCarvana_1664021850 INFO: Epoch:[005/099], Avg val loss:0.03602493082483609
+[09/24 20:19:49] SegOnCarvana_1664021850 INFO: Avg dice: 0.986639142036438
+[09/24 20:19:49] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[005/099].
+[09/24 20:19:53] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:19:54] SegOnCarvana_1664021850 INFO: Epoch:[006/099], Iteration:[00001/00086], Train_loss_all:0.031220
+[09/24 20:20:12] SegOnCarvana_1664021850 INFO: Epoch:[006/099], Iteration:[00086/00086], Train_loss_all:0.041741
+[09/24 20:20:13] SegOnCarvana_1664021850 INFO: Epoch:6: Used time:19.47s; Lr:3.00e-04
+[09/24 20:20:13] SegOnCarvana_1664021850 INFO: Epoch:6: Avg train loss:0.048522815108299255
+[09/24 20:20:14] SegOnCarvana_1664021850 INFO: Epoch:[006/099], Iteration:[00001/00015], Val_loss_all:0.034710
+[09/24 20:20:15] SegOnCarvana_1664021850 INFO: Epoch:[006/099], Iteration:[00015/00015], Val_loss_all:0.038837
+[09/24 20:20:15] SegOnCarvana_1664021850 INFO: Epoch:[006/099], Avg val loss:0.03968103379011154
+[09/24 20:20:15] SegOnCarvana_1664021850 INFO: Avg dice: 0.9840579628944397
+[09/24 20:20:16] SegOnCarvana_1664021850 INFO: Epoch:[007/099], Iteration:[00001/00086], Train_loss_all:0.046700
+[09/24 20:20:35] SegOnCarvana_1664021850 INFO: Epoch:[007/099], Iteration:[00086/00086], Train_loss_all:0.030352
+[09/24 20:20:35] SegOnCarvana_1664021850 INFO: Epoch:7: Used time:19.92s; Lr:3.00e-04
+[09/24 20:20:35] SegOnCarvana_1664021850 INFO: Epoch:7: Avg train loss:0.03460581652646841
+[09/24 20:20:36] SegOnCarvana_1664021850 INFO: Epoch:[007/099], Iteration:[00001/00015], Val_loss_all:0.026308
+[09/24 20:20:38] SegOnCarvana_1664021850 INFO: Epoch:[007/099], Iteration:[00015/00015], Val_loss_all:0.034593
+[09/24 20:20:38] SegOnCarvana_1664021850 INFO: Epoch:[007/099], Avg val loss:0.0349264827867349
+[09/24 20:20:38] SegOnCarvana_1664021850 INFO: Avg dice: 0.9851499199867249
+[09/24 20:20:38] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[007/099].
+[09/24 20:20:41] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:20:42] SegOnCarvana_1664021850 INFO: Epoch:[008/099], Iteration:[00001/00086], Train_loss_all:0.039722
+[09/24 20:21:00] SegOnCarvana_1664021850 INFO: Epoch:[008/099], Iteration:[00086/00086], Train_loss_all:0.026420
+[09/24 20:21:01] SegOnCarvana_1664021850 INFO: Epoch:8: Used time:20.05s; Lr:3.00e-04
+[09/24 20:21:01] SegOnCarvana_1664021850 INFO: Epoch:8: Avg train loss:0.028834487376518027
+[09/24 20:21:01] SegOnCarvana_1664021850 INFO: Epoch:[008/099], Iteration:[00001/00015], Val_loss_all:0.026769
+[09/24 20:21:03] SegOnCarvana_1664021850 INFO: Epoch:[008/099], Iteration:[00015/00015], Val_loss_all:0.026815
+[09/24 20:21:03] SegOnCarvana_1664021850 INFO: Epoch:[008/099], Avg val loss:0.026833793769280117
+[09/24 20:21:03] SegOnCarvana_1664021850 INFO: Avg dice: 0.9884690046310425
+[09/24 20:21:03] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[008/099].
+[09/24 20:21:09] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:21:10] SegOnCarvana_1664021850 INFO: Epoch:[009/099], Iteration:[00001/00086], Train_loss_all:0.024521
+[09/24 20:21:28] SegOnCarvana_1664021850 INFO: Epoch:[009/099], Iteration:[00086/00086], Train_loss_all:0.027201
+[09/24 20:21:28] SegOnCarvana_1664021850 INFO: Epoch:9: Used time:19.88s; Lr:3.00e-04
+[09/24 20:21:28] SegOnCarvana_1664021850 INFO: Epoch:9: Avg train loss:0.038683634922774726
+[09/24 20:21:29] SegOnCarvana_1664021850 INFO: Epoch:[009/099], Iteration:[00001/00015], Val_loss_all:0.036106
+[09/24 20:21:31] SegOnCarvana_1664021850 INFO: Epoch:[009/099], Iteration:[00015/00015], Val_loss_all:0.029718
+[09/24 20:21:31] SegOnCarvana_1664021850 INFO: Epoch:[009/099], Avg val loss:0.03515695681174596
+[09/24 20:21:31] SegOnCarvana_1664021850 INFO: Avg dice: 0.983788013458252
+[09/24 20:21:32] SegOnCarvana_1664021850 INFO: Epoch:[010/099], Iteration:[00001/00086], Train_loss_all:0.032562
+[09/24 20:21:51] SegOnCarvana_1664021850 INFO: Epoch:[010/099], Iteration:[00086/00086], Train_loss_all:0.045917
+[09/24 20:21:51] SegOnCarvana_1664021850 INFO: Epoch:10: Used time:19.78s; Lr:3.00e-04
+[09/24 20:21:51] SegOnCarvana_1664021850 INFO: Epoch:10: Avg train loss:0.030028178551515867
+[09/24 20:21:52] SegOnCarvana_1664021850 INFO: Epoch:[010/099], Iteration:[00001/00015], Val_loss_all:0.044483
+[09/24 20:21:53] SegOnCarvana_1664021850 INFO: Epoch:[010/099], Iteration:[00015/00015], Val_loss_all:0.025703
+[09/24 20:21:54] SegOnCarvana_1664021850 INFO: Epoch:[010/099], Avg val loss:0.02804188132286072
+[09/24 20:21:54] SegOnCarvana_1664021850 INFO: Avg dice: 0.9866070747375488
+[09/24 20:21:54] SegOnCarvana_1664021850 INFO: Epoch:[011/099], Iteration:[00001/00086], Train_loss_all:0.033525
+[09/24 20:22:13] SegOnCarvana_1664021850 INFO: Epoch:[011/099], Iteration:[00086/00086], Train_loss_all:0.025402
+[09/24 20:22:13] SegOnCarvana_1664021850 INFO: Epoch:11: Used time:19.28s; Lr:3.00e-04
+[09/24 20:22:13] SegOnCarvana_1664021850 INFO: Epoch:11: Avg train loss:0.03476358744380779
+[09/24 20:22:14] SegOnCarvana_1664021850 INFO: Epoch:[011/099], Iteration:[00001/00015], Val_loss_all:0.025210
+[09/24 20:22:16] SegOnCarvana_1664021850 INFO: Epoch:[011/099], Iteration:[00015/00015], Val_loss_all:0.023820
+[09/24 20:22:16] SegOnCarvana_1664021850 INFO: Epoch:[011/099], Avg val loss:0.025640729069709777
+[09/24 20:22:16] SegOnCarvana_1664021850 INFO: Avg dice: 0.9884748458862305
+[09/24 20:22:16] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[011/099].
+[09/24 20:22:21] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:22:22] SegOnCarvana_1664021850 INFO: Epoch:[012/099], Iteration:[00001/00086], Train_loss_all:0.019462
+[09/24 20:22:34] SegOnCarvana_1664021850 INFO: Epoch:[012/099], Iteration:[00086/00086], Train_loss_all:0.027108
+[09/24 20:22:34] SegOnCarvana_1664021850 INFO: Epoch:12: Used time:13.05s; Lr:3.00e-04
+[09/24 20:22:34] SegOnCarvana_1664021850 INFO: Epoch:12: Avg train loss:0.02371210814995128
+[09/24 20:22:35] SegOnCarvana_1664021850 INFO: Epoch:[012/099], Iteration:[00001/00015], Val_loss_all:0.020990
+[09/24 20:22:37] SegOnCarvana_1664021850 INFO: Epoch:[012/099], Iteration:[00015/00015], Val_loss_all:0.020559
+[09/24 20:22:37] SegOnCarvana_1664021850 INFO: Epoch:[012/099], Avg val loss:0.023926140119632084
+[09/24 20:22:37] SegOnCarvana_1664021850 INFO: Avg dice: 0.9885413646697998
+[09/24 20:22:37] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[012/099].
+[09/24 20:22:46] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:22:48] SegOnCarvana_1664021850 INFO: Epoch:[013/099], Iteration:[00001/00086], Train_loss_all:0.026144
+[09/24 20:23:06] SegOnCarvana_1664021850 INFO: Epoch:[013/099], Iteration:[00086/00086], Train_loss_all:0.026001
+[09/24 20:23:06] SegOnCarvana_1664021850 INFO: Epoch:13: Used time:19.83s; Lr:3.00e-04
+[09/24 20:23:06] SegOnCarvana_1664021850 INFO: Epoch:13: Avg train loss:0.021685902289179868
+[09/24 20:23:07] SegOnCarvana_1664021850 INFO: Epoch:[013/099], Iteration:[00001/00015], Val_loss_all:0.022311
+[09/24 20:23:09] SegOnCarvana_1664021850 INFO: Epoch:[013/099], Iteration:[00015/00015], Val_loss_all:0.029577
+[09/24 20:23:09] SegOnCarvana_1664021850 INFO: Epoch:[013/099], Avg val loss:0.0225698575998346
+[09/24 20:23:09] SegOnCarvana_1664021850 INFO: Avg dice: 0.9893524646759033
+[09/24 20:23:09] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[013/099].
+[09/24 20:23:16] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:23:17] SegOnCarvana_1664021850 INFO: Epoch:[014/099], Iteration:[00001/00086], Train_loss_all:0.019404
+[09/24 20:23:36] SegOnCarvana_1664021850 INFO: Epoch:[014/099], Iteration:[00086/00086], Train_loss_all:0.015672
+[09/24 20:23:36] SegOnCarvana_1664021850 INFO: Epoch:14: Used time:19.78s; Lr:3.00e-04
+[09/24 20:23:36] SegOnCarvana_1664021850 INFO: Epoch:14: Avg train loss:0.019754898441998764
+[09/24 20:23:37] SegOnCarvana_1664021850 INFO: Epoch:[014/099], Iteration:[00001/00015], Val_loss_all:0.016509
+[09/24 20:23:39] SegOnCarvana_1664021850 INFO: Epoch:[014/099], Iteration:[00015/00015], Val_loss_all:0.016441
+[09/24 20:23:39] SegOnCarvana_1664021850 INFO: Epoch:[014/099], Avg val loss:0.019312453145782154
+[09/24 20:23:39] SegOnCarvana_1664021850 INFO: Avg dice: 0.990540623664856
+[09/24 20:23:39] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[014/099].
+[09/24 20:23:42] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:23:43] SegOnCarvana_1664021850 INFO: Epoch:[015/099], Iteration:[00001/00086], Train_loss_all:0.021153
+[09/24 20:24:01] SegOnCarvana_1664021850 INFO: Epoch:[015/099], Iteration:[00086/00086], Train_loss_all:0.017480
+[09/24 20:24:02] SegOnCarvana_1664021850 INFO: Epoch:15: Used time:19.71s; Lr:3.00e-04
+[09/24 20:24:02] SegOnCarvana_1664021850 INFO: Epoch:15: Avg train loss:0.01946561047157576
+[09/24 20:24:03] SegOnCarvana_1664021850 INFO: Epoch:[015/099], Iteration:[00001/00015], Val_loss_all:0.016286
+[09/24 20:24:04] SegOnCarvana_1664021850 INFO: Epoch:[015/099], Iteration:[00015/00015], Val_loss_all:0.036212
+[09/24 20:24:04] SegOnCarvana_1664021850 INFO: Epoch:[015/099], Avg val loss:0.021683134511113165
+[09/24 20:24:04] SegOnCarvana_1664021850 INFO: Avg dice: 0.9896950721740723
+[09/24 20:24:05] SegOnCarvana_1664021850 INFO: Epoch:[016/099], Iteration:[00001/00086], Train_loss_all:0.021842
+[09/24 20:24:24] SegOnCarvana_1664021850 INFO: Epoch:[016/099], Iteration:[00086/00086], Train_loss_all:0.017108
+[09/24 20:24:24] SegOnCarvana_1664021850 INFO: Epoch:16: Used time:19.82s; Lr:3.00e-04
+[09/24 20:24:24] SegOnCarvana_1664021850 INFO: Epoch:16: Avg train loss:0.0177930838666683
+[09/24 20:24:25] SegOnCarvana_1664021850 INFO: Epoch:[016/099], Iteration:[00001/00015], Val_loss_all:0.016818
+[09/24 20:24:27] SegOnCarvana_1664021850 INFO: Epoch:[016/099], Iteration:[00015/00015], Val_loss_all:0.015522
+[09/24 20:24:27] SegOnCarvana_1664021850 INFO: Epoch:[016/099], Avg val loss:0.019075372070074082
+[09/24 20:24:27] SegOnCarvana_1664021850 INFO: Avg dice: 0.9906954169273376
+[09/24 20:24:27] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[016/099].
+[09/24 20:24:33] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:24:34] SegOnCarvana_1664021850 INFO: Epoch:[017/099], Iteration:[00001/00086], Train_loss_all:0.019417
+[09/24 20:24:48] SegOnCarvana_1664021850 INFO: Epoch:[017/099], Iteration:[00086/00086], Train_loss_all:0.019012
+[09/24 20:24:48] SegOnCarvana_1664021850 INFO: Epoch:17: Used time:15.24s; Lr:3.00e-04
+[09/24 20:24:48] SegOnCarvana_1664021850 INFO: Epoch:17: Avg train loss:0.01771119137316249
+[09/24 20:24:49] SegOnCarvana_1664021850 INFO: Epoch:[017/099], Iteration:[00001/00015], Val_loss_all:0.022685
+[09/24 20:24:51] SegOnCarvana_1664021850 INFO: Epoch:[017/099], Iteration:[00015/00015], Val_loss_all:0.015520
+[09/24 20:24:51] SegOnCarvana_1664021850 INFO: Epoch:[017/099], Avg val loss:0.019341588765382767
+[09/24 20:24:51] SegOnCarvana_1664021850 INFO: Avg dice: 0.9905139803886414
+[09/24 20:24:52] SegOnCarvana_1664021850 INFO: Epoch:[018/099], Iteration:[00001/00086], Train_loss_all:0.016068
+[09/24 20:25:03] SegOnCarvana_1664021850 INFO: Epoch:[018/099], Iteration:[00086/00086], Train_loss_all:0.017153
+[09/24 20:25:03] SegOnCarvana_1664021850 INFO: Epoch:18: Used time:12.26s; Lr:3.00e-04
+[09/24 20:25:03] SegOnCarvana_1664021850 INFO: Epoch:18: Avg train loss:0.016458684632684604
+[09/24 20:25:04] SegOnCarvana_1664021850 INFO: Epoch:[018/099], Iteration:[00001/00015], Val_loss_all:0.012724
+[09/24 20:25:06] SegOnCarvana_1664021850 INFO: Epoch:[018/099], Iteration:[00015/00015], Val_loss_all:0.015375
+[09/24 20:25:06] SegOnCarvana_1664021850 INFO: Epoch:[018/099], Avg val loss:0.017377133853733538
+[09/24 20:25:06] SegOnCarvana_1664021850 INFO: Avg dice: 0.9915139675140381
+[09/24 20:25:06] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[018/099].
+[09/24 20:25:11] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:25:12] SegOnCarvana_1664021850 INFO: Epoch:[019/099], Iteration:[00001/00086], Train_loss_all:0.014157
+[09/24 20:25:30] SegOnCarvana_1664021850 INFO: Epoch:[019/099], Iteration:[00086/00086], Train_loss_all:0.016377
+[09/24 20:25:30] SegOnCarvana_1664021850 INFO: Epoch:19: Used time:19.60s; Lr:3.00e-04
+[09/24 20:25:30] SegOnCarvana_1664021850 INFO: Epoch:19: Avg train loss:0.015490936288653417
+[09/24 20:25:31] SegOnCarvana_1664021850 INFO: Epoch:[019/099], Iteration:[00001/00015], Val_loss_all:0.020980
+[09/24 20:25:33] SegOnCarvana_1664021850 INFO: Epoch:[019/099], Iteration:[00015/00015], Val_loss_all:0.017546
+[09/24 20:25:33] SegOnCarvana_1664021850 INFO: Epoch:[019/099], Avg val loss:0.017943805456161498
+[09/24 20:25:33] SegOnCarvana_1664021850 INFO: Avg dice: 0.9911699295043945
+[09/24 20:25:34] SegOnCarvana_1664021850 INFO: Epoch:[020/099], Iteration:[00001/00086], Train_loss_all:0.016185
+[09/24 20:25:53] SegOnCarvana_1664021850 INFO: Epoch:[020/099], Iteration:[00086/00086], Train_loss_all:0.019044
+[09/24 20:25:53] SegOnCarvana_1664021850 INFO: Epoch:20: Used time:19.63s; Lr:3.00e-04
+[09/24 20:25:53] SegOnCarvana_1664021850 INFO: Epoch:20: Avg train loss:0.015118926720217217
+[09/24 20:25:54] SegOnCarvana_1664021850 INFO: Epoch:[020/099], Iteration:[00001/00015], Val_loss_all:0.016554
+[09/24 20:25:55] SegOnCarvana_1664021850 INFO: Epoch:[020/099], Iteration:[00015/00015], Val_loss_all:0.046610
+[09/24 20:25:55] SegOnCarvana_1664021850 INFO: Epoch:[020/099], Avg val loss:0.021992026083171367
+[09/24 20:25:55] SegOnCarvana_1664021850 INFO: Avg dice: 0.9894117712974548
+[09/24 20:25:57] SegOnCarvana_1664021850 INFO: Epoch:[021/099], Iteration:[00001/00086], Train_loss_all:0.018401
+[09/24 20:26:15] SegOnCarvana_1664021850 INFO: Epoch:[021/099], Iteration:[00086/00086], Train_loss_all:0.013045
+[09/24 20:26:15] SegOnCarvana_1664021850 INFO: Epoch:21: Used time:19.91s; Lr:3.00e-05
+[09/24 20:26:15] SegOnCarvana_1664021850 INFO: Epoch:21: Avg train loss:0.014794835788306109
+[09/24 20:26:16] SegOnCarvana_1664021850 INFO: Epoch:[021/099], Iteration:[00001/00015], Val_loss_all:0.011858
+[09/24 20:26:18] SegOnCarvana_1664021850 INFO: Epoch:[021/099], Iteration:[00015/00015], Val_loss_all:0.018098
+[09/24 20:26:18] SegOnCarvana_1664021850 INFO: Epoch:[021/099], Avg val loss:0.01656427203367154
+[09/24 20:26:18] SegOnCarvana_1664021850 INFO: Avg dice: 0.9918442964553833
+[09/24 20:26:18] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[021/099].
+[09/24 20:26:22] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:26:23] SegOnCarvana_1664021850 INFO: Epoch:[022/099], Iteration:[00001/00086], Train_loss_all:0.015784
+[09/24 20:26:42] SegOnCarvana_1664021850 INFO: Epoch:[022/099], Iteration:[00086/00086], Train_loss_all:0.011954
+[09/24 20:26:42] SegOnCarvana_1664021850 INFO: Epoch:22: Used time:19.90s; Lr:3.00e-05
+[09/24 20:26:42] SegOnCarvana_1664021850 INFO: Epoch:22: Avg train loss:0.012780898369762093
+[09/24 20:26:43] SegOnCarvana_1664021850 INFO: Epoch:[022/099], Iteration:[00001/00015], Val_loss_all:0.017637
+[09/24 20:26:45] SegOnCarvana_1664021850 INFO: Epoch:[022/099], Iteration:[00015/00015], Val_loss_all:0.014790
+[09/24 20:26:45] SegOnCarvana_1664021850 INFO: Epoch:[022/099], Avg val loss:0.015283785263697306
+[09/24 20:26:45] SegOnCarvana_1664021850 INFO: Avg dice: 0.9927617311477661
+[09/24 20:26:45] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[022/099].
+[09/24 20:26:48] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:26:49] SegOnCarvana_1664021850 INFO: Epoch:[023/099], Iteration:[00001/00086], Train_loss_all:0.012121
+[09/24 20:27:08] SegOnCarvana_1664021850 INFO: Epoch:[023/099], Iteration:[00086/00086], Train_loss_all:0.013469
+[09/24 20:27:08] SegOnCarvana_1664021850 INFO: Epoch:23: Used time:19.58s; Lr:3.00e-05
+[09/24 20:27:08] SegOnCarvana_1664021850 INFO: Epoch:23: Avg train loss:0.012192712111268626
+[09/24 20:27:09] SegOnCarvana_1664021850 INFO: Epoch:[023/099], Iteration:[00001/00015], Val_loss_all:0.011282
+[09/24 20:27:10] SegOnCarvana_1664021850 INFO: Epoch:[023/099], Iteration:[00015/00015], Val_loss_all:0.015382
+[09/24 20:27:11] SegOnCarvana_1664021850 INFO: Epoch:[023/099], Avg val loss:0.015332457423210145
+[09/24 20:27:11] SegOnCarvana_1664021850 INFO: Avg dice: 0.9926808476448059
+[09/24 20:27:12] SegOnCarvana_1664021850 INFO: Epoch:[024/099], Iteration:[00001/00086], Train_loss_all:0.012156
+[09/24 20:27:30] SegOnCarvana_1664021850 INFO: Epoch:[024/099], Iteration:[00086/00086], Train_loss_all:0.016701
+[09/24 20:27:30] SegOnCarvana_1664021850 INFO: Epoch:24: Used time:19.79s; Lr:3.00e-05
+[09/24 20:27:30] SegOnCarvana_1664021850 INFO: Epoch:24: Avg train loss:0.012104306467483903
+[09/24 20:27:31] SegOnCarvana_1664021850 INFO: Epoch:[024/099], Iteration:[00001/00015], Val_loss_all:0.014335
+[09/24 20:27:33] SegOnCarvana_1664021850 INFO: Epoch:[024/099], Iteration:[00015/00015], Val_loss_all:0.012047
+[09/24 20:27:33] SegOnCarvana_1664021850 INFO: Epoch:[024/099], Avg val loss:0.015184450211624305
+[09/24 20:27:33] SegOnCarvana_1664021850 INFO: Avg dice: 0.9926853775978088
+[09/24 20:27:33] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[024/099].
+[09/24 20:27:38] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:27:39] SegOnCarvana_1664021850 INFO: Epoch:[025/099], Iteration:[00001/00086], Train_loss_all:0.012077
+[09/24 20:27:50] SegOnCarvana_1664021850 INFO: Epoch:[025/099], Iteration:[00086/00086], Train_loss_all:0.012810
+[09/24 20:27:50] SegOnCarvana_1664021850 INFO: Epoch:25: Used time:12.63s; Lr:3.00e-05
+[09/24 20:27:50] SegOnCarvana_1664021850 INFO: Epoch:25: Avg train loss:0.011876405530804119
+[09/24 20:27:51] SegOnCarvana_1664021850 INFO: Epoch:[025/099], Iteration:[00001/00015], Val_loss_all:0.012704
+[09/24 20:27:53] SegOnCarvana_1664021850 INFO: Epoch:[025/099], Iteration:[00015/00015], Val_loss_all:0.015695
+[09/24 20:27:53] SegOnCarvana_1664021850 INFO: Epoch:[025/099], Avg val loss:0.015261359761158626
+[09/24 20:27:53] SegOnCarvana_1664021850 INFO: Avg dice: 0.9926350116729736
+[09/24 20:27:54] SegOnCarvana_1664021850 INFO: Epoch:[026/099], Iteration:[00001/00086], Train_loss_all:0.008819
+[09/24 20:28:05] SegOnCarvana_1664021850 INFO: Epoch:[026/099], Iteration:[00086/00086], Train_loss_all:0.011355
+[09/24 20:28:05] SegOnCarvana_1664021850 INFO: Epoch:26: Used time:11.87s; Lr:3.00e-05
+[09/24 20:28:05] SegOnCarvana_1664021850 INFO: Epoch:26: Avg train loss:0.011700671296133551
+[09/24 20:28:06] SegOnCarvana_1664021850 INFO: Epoch:[026/099], Iteration:[00001/00015], Val_loss_all:0.013415
+[09/24 20:28:08] SegOnCarvana_1664021850 INFO: Epoch:[026/099], Iteration:[00015/00015], Val_loss_all:0.010715
+[09/24 20:28:08] SegOnCarvana_1664021850 INFO: Epoch:[026/099], Avg val loss:0.013980889382461706
+[09/24 20:28:08] SegOnCarvana_1664021850 INFO: Avg dice: 0.9929166436195374
+[09/24 20:28:08] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[026/099].
+[09/24 20:28:11] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:28:12] SegOnCarvana_1664021850 INFO: Epoch:[027/099], Iteration:[00001/00086], Train_loss_all:0.012008
+[09/24 20:28:31] SegOnCarvana_1664021850 INFO: Epoch:[027/099], Iteration:[00086/00086], Train_loss_all:0.011276
+[09/24 20:28:31] SegOnCarvana_1664021850 INFO: Epoch:27: Used time:19.80s; Lr:3.00e-05
+[09/24 20:28:31] SegOnCarvana_1664021850 INFO: Epoch:27: Avg train loss:0.011574102056667555
+[09/24 20:28:32] SegOnCarvana_1664021850 INFO: Epoch:[027/099], Iteration:[00001/00015], Val_loss_all:0.016397
+[09/24 20:28:34] SegOnCarvana_1664021850 INFO: Epoch:[027/099], Iteration:[00015/00015], Val_loss_all:0.028171
+[09/24 20:28:34] SegOnCarvana_1664021850 INFO: Epoch:[027/099], Avg val loss:0.015020068486531575
+[09/24 20:28:34] SegOnCarvana_1664021850 INFO: Avg dice: 0.9926952719688416
+[09/24 20:28:35] SegOnCarvana_1664021850 INFO: Epoch:[028/099], Iteration:[00001/00086], Train_loss_all:0.009456
+[09/24 20:28:53] SegOnCarvana_1664021850 INFO: Epoch:[028/099], Iteration:[00086/00086], Train_loss_all:0.012608
+[09/24 20:28:53] SegOnCarvana_1664021850 INFO: Epoch:28: Used time:19.55s; Lr:3.00e-05
+[09/24 20:28:53] SegOnCarvana_1664021850 INFO: Epoch:28: Avg train loss:0.011413435170123743
+[09/24 20:28:54] SegOnCarvana_1664021850 INFO: Epoch:[028/099], Iteration:[00001/00015], Val_loss_all:0.009991
+[09/24 20:28:56] SegOnCarvana_1664021850 INFO: Epoch:[028/099], Iteration:[00015/00015], Val_loss_all:0.013784
+[09/24 20:28:56] SegOnCarvana_1664021850 INFO: Epoch:[028/099], Avg val loss:0.015025349892675876
+[09/24 20:28:56] SegOnCarvana_1664021850 INFO: Avg dice: 0.9927694201469421
+[09/24 20:28:57] SegOnCarvana_1664021850 INFO: Epoch:[029/099], Iteration:[00001/00086], Train_loss_all:0.012807
+[09/24 20:29:16] SegOnCarvana_1664021850 INFO: Epoch:[029/099], Iteration:[00086/00086], Train_loss_all:0.010174
+[09/24 20:29:16] SegOnCarvana_1664021850 INFO: Epoch:29: Used time:19.89s; Lr:3.00e-05
+[09/24 20:29:16] SegOnCarvana_1664021850 INFO: Epoch:29: Avg train loss:0.011306958034807859
+[09/24 20:29:17] SegOnCarvana_1664021850 INFO: Epoch:[029/099], Iteration:[00001/00015], Val_loss_all:0.013849
+[09/24 20:29:19] SegOnCarvana_1664021850 INFO: Epoch:[029/099], Iteration:[00015/00015], Val_loss_all:0.015204
+[09/24 20:29:19] SegOnCarvana_1664021850 INFO: Epoch:[029/099], Avg val loss:0.014862592766682307
+[09/24 20:29:19] SegOnCarvana_1664021850 INFO: Avg dice: 0.9927812218666077
+[09/24 20:29:20] SegOnCarvana_1664021850 INFO: Epoch:[030/099], Iteration:[00001/00086], Train_loss_all:0.012487
+[09/24 20:29:38] SegOnCarvana_1664021850 INFO: Epoch:[030/099], Iteration:[00086/00086], Train_loss_all:0.009631
+[09/24 20:29:38] SegOnCarvana_1664021850 INFO: Epoch:30: Used time:19.67s; Lr:3.00e-05
+[09/24 20:29:38] SegOnCarvana_1664021850 INFO: Epoch:30: Avg train loss:0.011228575457840465
+[09/24 20:29:39] SegOnCarvana_1664021850 INFO: Epoch:[030/099], Iteration:[00001/00015], Val_loss_all:0.017176
+[09/24 20:29:41] SegOnCarvana_1664021850 INFO: Epoch:[030/099], Iteration:[00015/00015], Val_loss_all:0.015312
+[09/24 20:29:41] SegOnCarvana_1664021850 INFO: Epoch:[030/099], Avg val loss:0.014963941276073455
+[09/24 20:29:41] SegOnCarvana_1664021850 INFO: Avg dice: 0.9927396774291992
+[09/24 20:29:42] SegOnCarvana_1664021850 INFO: Epoch:[031/099], Iteration:[00001/00086], Train_loss_all:0.012761
+[09/24 20:30:01] SegOnCarvana_1664021850 INFO: Epoch:[031/099], Iteration:[00086/00086], Train_loss_all:0.009286
+[09/24 20:30:01] SegOnCarvana_1664021850 INFO: Epoch:31: Used time:19.58s; Lr:3.00e-05
+[09/24 20:30:01] SegOnCarvana_1664021850 INFO: Epoch:31: Avg train loss:0.01103537678068807
+[09/24 20:30:02] SegOnCarvana_1664021850 INFO: Epoch:[031/099], Iteration:[00001/00015], Val_loss_all:0.015310
+[09/24 20:30:04] SegOnCarvana_1664021850 INFO: Epoch:[031/099], Iteration:[00015/00015], Val_loss_all:0.014797
+[09/24 20:30:04] SegOnCarvana_1664021850 INFO: Epoch:[031/099], Avg val loss:0.015049528703093529
+[09/24 20:30:04] SegOnCarvana_1664021850 INFO: Avg dice: 0.9927548170089722
+[09/24 20:30:05] SegOnCarvana_1664021850 INFO: Epoch:[032/099], Iteration:[00001/00086], Train_loss_all:0.009346
+[09/24 20:30:23] SegOnCarvana_1664021850 INFO: Epoch:[032/099], Iteration:[00086/00086], Train_loss_all:0.009885
+[09/24 20:30:24] SegOnCarvana_1664021850 INFO: Epoch:32: Used time:19.85s; Lr:3.00e-05
+[09/24 20:30:24] SegOnCarvana_1664021850 INFO: Epoch:32: Avg train loss:0.011002883921528971
+[09/24 20:30:24] SegOnCarvana_1664021850 INFO: Epoch:[032/099], Iteration:[00001/00015], Val_loss_all:0.010988
+[09/24 20:30:26] SegOnCarvana_1664021850 INFO: Epoch:[032/099], Iteration:[00015/00015], Val_loss_all:0.011438
+[09/24 20:30:26] SegOnCarvana_1664021850 INFO: Epoch:[032/099], Avg val loss:0.014702516918381056
+[09/24 20:30:26] SegOnCarvana_1664021850 INFO: Avg dice: 0.9928644895553589
+[09/24 20:30:27] SegOnCarvana_1664021850 INFO: Epoch:[033/099], Iteration:[00001/00086], Train_loss_all:0.008748
+[09/24 20:30:42] SegOnCarvana_1664021850 INFO: Epoch:[033/099], Iteration:[00086/00086], Train_loss_all:0.009817
+[09/24 20:30:43] SegOnCarvana_1664021850 INFO: Epoch:33: Used time:16.31s; Lr:3.00e-05
+[09/24 20:30:43] SegOnCarvana_1664021850 INFO: Epoch:33: Avg train loss:0.01088633447842196
+[09/24 20:30:44] SegOnCarvana_1664021850 INFO: Epoch:[033/099], Iteration:[00001/00015], Val_loss_all:0.011876
+[09/24 20:30:45] SegOnCarvana_1664021850 INFO: Epoch:[033/099], Iteration:[00015/00015], Val_loss_all:0.014584
+[09/24 20:30:45] SegOnCarvana_1664021850 INFO: Epoch:[033/099], Avg val loss:0.015054665381709735
+[09/24 20:30:45] SegOnCarvana_1664021850 INFO: Avg dice: 0.9927116632461548
+[09/24 20:30:46] SegOnCarvana_1664021850 INFO: Epoch:[034/099], Iteration:[00001/00086], Train_loss_all:0.011945
+[09/24 20:30:58] SegOnCarvana_1664021850 INFO: Epoch:[034/099], Iteration:[00086/00086], Train_loss_all:0.013046
+[09/24 20:30:58] SegOnCarvana_1664021850 INFO: Epoch:34: Used time:12.81s; Lr:3.00e-05
+[09/24 20:30:58] SegOnCarvana_1664021850 INFO: Epoch:34: Avg train loss:0.010795019794428764
+[09/24 20:30:59] SegOnCarvana_1664021850 INFO: Epoch:[034/099], Iteration:[00001/00015], Val_loss_all:0.012402
+[09/24 20:31:01] SegOnCarvana_1664021850 INFO: Epoch:[034/099], Iteration:[00015/00015], Val_loss_all:0.018278
+[09/24 20:31:01] SegOnCarvana_1664021850 INFO: Epoch:[034/099], Avg val loss:0.014954043738543987
+[09/24 20:31:01] SegOnCarvana_1664021850 INFO: Avg dice: 0.9927561283111572
+[09/24 20:31:02] SegOnCarvana_1664021850 INFO: Epoch:[035/099], Iteration:[00001/00086], Train_loss_all:0.010725
+[09/24 20:31:12] SegOnCarvana_1664021850 INFO: Epoch:[035/099], Iteration:[00086/00086], Train_loss_all:0.008502
+[09/24 20:31:12] SegOnCarvana_1664021850 INFO: Epoch:35: Used time:11.36s; Lr:3.00e-05
+[09/24 20:31:12] SegOnCarvana_1664021850 INFO: Epoch:35: Avg train loss:0.010597048695524072
+[09/24 20:31:13] SegOnCarvana_1664021850 INFO: Epoch:[035/099], Iteration:[00001/00015], Val_loss_all:0.013093
+[09/24 20:31:14] SegOnCarvana_1664021850 INFO: Epoch:[035/099], Iteration:[00015/00015], Val_loss_all:0.012472
+[09/24 20:31:14] SegOnCarvana_1664021850 INFO: Epoch:[035/099], Avg val loss:0.014914522071679433
+[09/24 20:31:14] SegOnCarvana_1664021850 INFO: Avg dice: 0.9928484559059143
+[09/24 20:31:15] SegOnCarvana_1664021850 INFO: Epoch:[036/099], Iteration:[00001/00086], Train_loss_all:0.013864
+[09/24 20:31:26] SegOnCarvana_1664021850 INFO: Epoch:[036/099], Iteration:[00086/00086], Train_loss_all:0.009895
+[09/24 20:31:26] SegOnCarvana_1664021850 INFO: Epoch:36: Used time:11.23s; Lr:3.00e-05
+[09/24 20:31:26] SegOnCarvana_1664021850 INFO: Epoch:36: Avg train loss:0.01040547345440055
+[09/24 20:31:27] SegOnCarvana_1664021850 INFO: Epoch:[036/099], Iteration:[00001/00015], Val_loss_all:0.012352
+[09/24 20:31:28] SegOnCarvana_1664021850 INFO: Epoch:[036/099], Iteration:[00015/00015], Val_loss_all:0.022235
+[09/24 20:31:28] SegOnCarvana_1664021850 INFO: Epoch:[036/099], Avg val loss:0.014937611358861128
+[09/24 20:31:28] SegOnCarvana_1664021850 INFO: Avg dice: 0.9928221702575684
+[09/24 20:31:29] SegOnCarvana_1664021850 INFO: Epoch:[037/099], Iteration:[00001/00086], Train_loss_all:0.012031
+[09/24 20:31:41] SegOnCarvana_1664021850 INFO: Epoch:[037/099], Iteration:[00086/00086], Train_loss_all:0.010855
+[09/24 20:31:41] SegOnCarvana_1664021850 INFO: Epoch:37: Used time:13.25s; Lr:3.00e-05
+[09/24 20:31:41] SegOnCarvana_1664021850 INFO: Epoch:37: Avg train loss:0.010464658689966728
+[09/24 20:31:43] SegOnCarvana_1664021850 INFO: Epoch:[037/099], Iteration:[00001/00015], Val_loss_all:0.012175
+[09/24 20:31:44] SegOnCarvana_1664021850 INFO: Epoch:[037/099], Iteration:[00015/00015], Val_loss_all:0.011683
+[09/24 20:31:44] SegOnCarvana_1664021850 INFO: Epoch:[037/099], Avg val loss:0.013618375981847446
+[09/24 20:31:44] SegOnCarvana_1664021850 INFO: Avg dice: 0.9932004809379578
+[09/24 20:31:44] SegOnCarvana_1664021850 INFO: Best val loss at Epoch:[037/099].
+[09/24 20:32:03] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_best_ckpt.pth.
+[09/24 20:32:04] SegOnCarvana_1664021850 INFO: Epoch:[038/099], Iteration:[00001/00086], Train_loss_all:0.010970
+[09/24 20:32:23] SegOnCarvana_1664021850 INFO: Epoch:[038/099], Iteration:[00086/00086], Train_loss_all:0.009988
+[09/24 20:32:23] SegOnCarvana_1664021850 INFO: Epoch:38: Used time:19.81s; Lr:3.00e-05
+[09/24 20:32:23] SegOnCarvana_1664021850 INFO: Epoch:38: Avg train loss:0.01031960975811925
+[09/24 20:32:24] SegOnCarvana_1664021850 INFO: Epoch:[038/099], Iteration:[00001/00015], Val_loss_all:0.011793
+[09/24 20:32:25] SegOnCarvana_1664021850 INFO: Epoch:[038/099], Iteration:[00015/00015], Val_loss_all:0.019117
+[09/24 20:32:26] SegOnCarvana_1664021850 INFO: Epoch:[038/099], Avg val loss:0.01489035002887249
+[09/24 20:32:26] SegOnCarvana_1664021850 INFO: Avg dice: 0.9928930997848511
+[09/24 20:32:27] SegOnCarvana_1664021850 INFO: Epoch:[039/099], Iteration:[00001/00086], Train_loss_all:0.009261
+[09/24 20:32:45] SegOnCarvana_1664021850 INFO: Epoch:[039/099], Iteration:[00086/00086], Train_loss_all:0.010239
+[09/24 20:32:45] SegOnCarvana_1664021850 INFO: Epoch:39: Used time:19.75s; Lr:3.00e-05
+[09/24 20:32:45] SegOnCarvana_1664021850 INFO: Epoch:39: Avg train loss:0.010270217011227857
+[09/24 20:32:46] SegOnCarvana_1664021850 INFO: Epoch:[039/099], Iteration:[00001/00015], Val_loss_all:0.011046
+[09/24 20:32:48] SegOnCarvana_1664021850 INFO: Epoch:[039/099], Iteration:[00015/00015], Val_loss_all:0.015682
+[09/24 20:32:48] SegOnCarvana_1664021850 INFO: Epoch:[039/099], Avg val loss:0.01368517056107521
+[09/24 20:32:48] SegOnCarvana_1664021850 INFO: Avg dice: 0.9930537343025208
+[09/24 20:32:49] SegOnCarvana_1664021850 INFO: Epoch:[040/099], Iteration:[00001/00086], Train_loss_all:0.012209
+[09/24 20:33:08] SegOnCarvana_1664021850 INFO: Epoch:[040/099], Iteration:[00086/00086], Train_loss_all:0.009545
+[09/24 20:33:08] SegOnCarvana_1664021850 INFO: Epoch:40: Used time:19.79s; Lr:3.00e-05
+[09/24 20:33:08] SegOnCarvana_1664021850 INFO: Epoch:40: Avg train loss:0.010099241510033607
+[09/24 20:33:09] SegOnCarvana_1664021850 INFO: Epoch:[040/099], Iteration:[00001/00015], Val_loss_all:0.012859
+[09/24 20:33:10] SegOnCarvana_1664021850 INFO: Epoch:[040/099], Iteration:[00015/00015], Val_loss_all:0.020161
+[09/24 20:33:10] SegOnCarvana_1664021850 INFO: Epoch:[040/099], Avg val loss:0.013860426470637321
+[09/24 20:33:10] SegOnCarvana_1664021850 INFO: Avg dice: 0.9930126667022705
+[09/24 20:33:12] SegOnCarvana_1664021850 INFO: Epoch:[041/099], Iteration:[00001/00086], Train_loss_all:0.010298
+[09/24 20:33:30] SegOnCarvana_1664021850 INFO: Epoch:[041/099], Iteration:[00086/00086], Train_loss_all:0.009490
+[09/24 20:33:30] SegOnCarvana_1664021850 INFO: Epoch:41: Used time:19.84s; Lr:3.00e-06
+[09/24 20:33:30] SegOnCarvana_1664021850 INFO: Epoch:41: Avg train loss:0.010021826858783877
+[09/24 20:33:31] SegOnCarvana_1664021850 INFO: Epoch:[041/099], Iteration:[00001/00015], Val_loss_all:0.011908
+[09/24 20:33:33] SegOnCarvana_1664021850 INFO: Epoch:[041/099], Iteration:[00015/00015], Val_loss_all:0.015113
+[09/24 20:33:33] SegOnCarvana_1664021850 INFO: Epoch:[041/099], Avg val loss:0.015058554895222186
+[09/24 20:33:33] SegOnCarvana_1664021850 INFO: Avg dice: 0.9927354454994202
+[09/24 20:33:34] SegOnCarvana_1664021850 INFO: Epoch:[042/099], Iteration:[00001/00086], Train_loss_all:0.010620
+[09/24 20:33:53] SegOnCarvana_1664021850 INFO: Epoch:[042/099], Iteration:[00086/00086], Train_loss_all:0.009845
+[09/24 20:33:53] SegOnCarvana_1664021850 INFO: Epoch:42: Used time:19.89s; Lr:3.00e-06
+[09/24 20:33:53] SegOnCarvana_1664021850 INFO: Epoch:42: Avg train loss:0.009616638246793733
+[09/24 20:33:54] SegOnCarvana_1664021850 INFO: Epoch:[042/099], Iteration:[00001/00015], Val_loss_all:0.012152
+[09/24 20:33:55] SegOnCarvana_1664021850 INFO: Epoch:[042/099], Iteration:[00015/00015], Val_loss_all:0.012332
+[09/24 20:33:56] SegOnCarvana_1664021850 INFO: Epoch:[042/099], Avg val loss:0.014694903294245403
+[09/24 20:33:56] SegOnCarvana_1664021850 INFO: Avg dice: 0.9930164217948914
+[09/24 20:33:57] SegOnCarvana_1664021850 INFO: Epoch:[043/099], Iteration:[00001/00086], Train_loss_all:0.009301
+[09/24 20:34:08] SegOnCarvana_1664021850 INFO: Epoch:[043/099], Iteration:[00086/00086], Train_loss_all:0.010730
+[09/24 20:34:08] SegOnCarvana_1664021850 INFO: Epoch:43: Used time:12.75s; Lr:3.00e-06
+[09/24 20:34:08] SegOnCarvana_1664021850 INFO: Epoch:43: Avg train loss:0.00955316431408878
+[09/24 20:34:09] SegOnCarvana_1664021850 INFO: Epoch:[043/099], Iteration:[00001/00015], Val_loss_all:0.012850
+[09/24 20:34:11] SegOnCarvana_1664021850 INFO: Epoch:[043/099], Iteration:[00015/00015], Val_loss_all:0.012643
+[09/24 20:34:11] SegOnCarvana_1664021850 INFO: Epoch:[043/099], Avg val loss:0.01462142833818992
+[09/24 20:34:11] SegOnCarvana_1664021850 INFO: Avg dice: 0.9930203557014465
+[09/24 20:34:12] SegOnCarvana_1664021850 INFO: Epoch:[044/099], Iteration:[00001/00086], Train_loss_all:0.007981
+[09/24 20:34:28] SegOnCarvana_1664021850 INFO: Epoch:[044/099], Iteration:[00086/00086], Train_loss_all:0.010158
+[09/24 20:34:28] SegOnCarvana_1664021850 INFO: Epoch:44: Used time:17.27s; Lr:3.00e-06
+[09/24 20:34:28] SegOnCarvana_1664021850 INFO: Epoch:44: Avg train loss:0.009539953162243892
+[09/24 20:34:29] SegOnCarvana_1664021850 INFO: Epoch:[044/099], Iteration:[00001/00015], Val_loss_all:0.014235
+[09/24 20:34:31] SegOnCarvana_1664021850 INFO: Epoch:[044/099], Iteration:[00015/00015], Val_loss_all:0.013992
+[09/24 20:34:31] SegOnCarvana_1664021850 INFO: Epoch:[044/099], Avg val loss:0.014747143226365248
+[09/24 20:34:31] SegOnCarvana_1664021850 INFO: Avg dice: 0.9930182695388794
+[09/24 20:34:32] SegOnCarvana_1664021850 INFO: Epoch:[045/099], Iteration:[00001/00086], Train_loss_all:0.011376
+[09/24 20:34:51] SegOnCarvana_1664021850 INFO: Epoch:[045/099], Iteration:[00086/00086], Train_loss_all:0.012183
+[09/24 20:34:51] SegOnCarvana_1664021850 INFO: Epoch:45: Used time:19.70s; Lr:3.00e-06
+[09/24 20:34:51] SegOnCarvana_1664021850 INFO: Epoch:45: Avg train loss:0.009541692022710692
+[09/24 20:34:52] SegOnCarvana_1664021850 INFO: Epoch:[045/099], Iteration:[00001/00015], Val_loss_all:0.016935
+[09/24 20:34:54] SegOnCarvana_1664021850 INFO: Epoch:[045/099], Iteration:[00015/00015], Val_loss_all:0.013248
+[09/24 20:34:54] SegOnCarvana_1664021850 INFO: Epoch:[045/099], Avg val loss:0.014463357937832674
+[09/24 20:34:54] SegOnCarvana_1664021850 INFO: Avg dice: 0.9930970668792725
+[09/24 20:34:55] SegOnCarvana_1664021850 INFO: Epoch:[046/099], Iteration:[00001/00086], Train_loss_all:0.009100
+[09/24 20:35:13] SegOnCarvana_1664021850 INFO: Epoch:[046/099], Iteration:[00086/00086], Train_loss_all:0.012453
+[09/24 20:35:13] SegOnCarvana_1664021850 INFO: Epoch:46: Used time:19.80s; Lr:3.00e-06
+[09/24 20:35:13] SegOnCarvana_1664021850 INFO: Epoch:46: Avg train loss:0.00950680326042307
+[09/24 20:35:14] SegOnCarvana_1664021850 INFO: Epoch:[046/099], Iteration:[00001/00015], Val_loss_all:0.012805
+[09/24 20:35:16] SegOnCarvana_1664021850 INFO: Epoch:[046/099], Iteration:[00015/00015], Val_loss_all:0.015140
+[09/24 20:35:16] SegOnCarvana_1664021850 INFO: Epoch:[046/099], Avg val loss:0.01485601079960664
+[09/24 20:35:16] SegOnCarvana_1664021850 INFO: Avg dice: 0.9928724765777588
+[09/24 20:35:17] SegOnCarvana_1664021850 INFO: Epoch:[047/099], Iteration:[00001/00086], Train_loss_all:0.009315
+[09/24 20:35:36] SegOnCarvana_1664021850 INFO: Epoch:[047/099], Iteration:[00086/00086], Train_loss_all:0.007932
+[09/24 20:35:36] SegOnCarvana_1664021850 INFO: Epoch:47: Used time:19.78s; Lr:3.00e-06
+[09/24 20:35:36] SegOnCarvana_1664021850 INFO: Epoch:47: Avg train loss:0.009452384420085785
+[09/24 20:35:37] SegOnCarvana_1664021850 INFO: Epoch:[047/099], Iteration:[00001/00015], Val_loss_all:0.015529
+[09/24 20:35:39] SegOnCarvana_1664021850 INFO: Epoch:[047/099], Iteration:[00015/00015], Val_loss_all:0.010870
+[09/24 20:35:39] SegOnCarvana_1664021850 INFO: Epoch:[047/099], Avg val loss:0.014854920593400796
+[09/24 20:35:39] SegOnCarvana_1664021850 INFO: Avg dice: 0.992881178855896
+[09/24 20:35:40] SegOnCarvana_1664021850 INFO: Epoch:[048/099], Iteration:[00001/00086], Train_loss_all:0.007774
+[09/24 20:35:59] SegOnCarvana_1664021850 INFO: Epoch:[048/099], Iteration:[00086/00086], Train_loss_all:0.010606
+[09/24 20:35:59] SegOnCarvana_1664021850 INFO: Epoch:48: Used time:19.83s; Lr:3.00e-06
+[09/24 20:35:59] SegOnCarvana_1664021850 INFO: Epoch:48: Avg train loss:0.00945219829635218
+[09/24 20:36:00] SegOnCarvana_1664021850 INFO: Epoch:[048/099], Iteration:[00001/00015], Val_loss_all:0.018424
+[09/24 20:36:02] SegOnCarvana_1664021850 INFO: Epoch:[048/099], Iteration:[00015/00015], Val_loss_all:0.014800
+[09/24 20:36:02] SegOnCarvana_1664021850 INFO: Epoch:[048/099], Avg val loss:0.014842010227342446
+[09/24 20:36:02] SegOnCarvana_1664021850 INFO: Avg dice: 0.9928887486457825
+[09/24 20:36:03] SegOnCarvana_1664021850 INFO: Epoch:[049/099], Iteration:[00001/00086], Train_loss_all:0.008437
+[09/24 20:36:22] SegOnCarvana_1664021850 INFO: Epoch:[049/099], Iteration:[00086/00086], Train_loss_all:0.007551
+[09/24 20:36:22] SegOnCarvana_1664021850 INFO: Epoch:49: Used time:19.87s; Lr:3.00e-06
+[09/24 20:36:22] SegOnCarvana_1664021850 INFO: Epoch:49: Avg train loss:0.009435466566491265
+[09/24 20:36:23] SegOnCarvana_1664021850 INFO: Epoch:[049/099], Iteration:[00001/00015], Val_loss_all:0.015318
+[09/24 20:36:24] SegOnCarvana_1664021850 INFO: Epoch:[049/099], Iteration:[00015/00015], Val_loss_all:0.011847
+[09/24 20:36:24] SegOnCarvana_1664021850 INFO: Epoch:[049/099], Avg val loss:0.014619681549568971
+[09/24 20:36:24] SegOnCarvana_1664021850 INFO: Avg dice: 0.9930152297019958
+[09/24 20:36:26] SegOnCarvana_1664021850 INFO: Epoch:[050/099], Iteration:[00001/00086], Train_loss_all:0.009408
+[09/24 20:36:44] SegOnCarvana_1664021850 INFO: Epoch:[050/099], Iteration:[00086/00086], Train_loss_all:0.008507
+[09/24 20:36:44] SegOnCarvana_1664021850 INFO: Epoch:50: Used time:19.89s; Lr:3.00e-06
+[09/24 20:36:44] SegOnCarvana_1664021850 INFO: Epoch:50: Avg train loss:0.009404982662174937
+[09/24 20:36:45] SegOnCarvana_1664021850 INFO: Epoch:[050/099], Iteration:[00001/00015], Val_loss_all:0.011746
+[09/24 20:36:47] SegOnCarvana_1664021850 INFO: Epoch:[050/099], Iteration:[00015/00015], Val_loss_all:0.013453
+[09/24 20:36:47] SegOnCarvana_1664021850 INFO: Epoch:[050/099], Avg val loss:0.014834503394862015
+[09/24 20:36:47] SegOnCarvana_1664021850 INFO: Avg dice: 0.9928885698318481
+[09/24 20:36:48] SegOnCarvana_1664021850 INFO: Epoch:[051/099], Iteration:[00001/00086], Train_loss_all:0.007834
+[09/24 20:37:00] SegOnCarvana_1664021850 INFO: Epoch:[051/099], Iteration:[00086/00086], Train_loss_all:0.008642
+[09/24 20:37:00] SegOnCarvana_1664021850 INFO: Epoch:51: Used time:12.75s; Lr:3.00e-06
+[09/24 20:37:00] SegOnCarvana_1664021850 INFO: Epoch:51: Avg train loss:0.009420671868462896
+[09/24 20:37:01] SegOnCarvana_1664021850 INFO: Epoch:[051/099], Iteration:[00001/00015], Val_loss_all:0.012560
+[09/24 20:37:02] SegOnCarvana_1664021850 INFO: Epoch:[051/099], Iteration:[00015/00015], Val_loss_all:0.014342
+[09/24 20:37:02] SegOnCarvana_1664021850 INFO: Epoch:[051/099], Avg val loss:0.014878280771275362
+[09/24 20:37:02] SegOnCarvana_1664021850 INFO: Avg dice: 0.9929372668266296
+[09/24 20:37:03] SegOnCarvana_1664021850 INFO: Epoch:[052/099], Iteration:[00001/00086], Train_loss_all:0.008502
+[09/24 20:37:14] SegOnCarvana_1664021850 INFO: Epoch:[052/099], Iteration:[00086/00086], Train_loss_all:0.009258
+[09/24 20:37:14] SegOnCarvana_1664021850 INFO: Epoch:52: Used time:11.70s; Lr:3.00e-06
+[09/24 20:37:14] SegOnCarvana_1664021850 INFO: Epoch:52: Avg train loss:0.009373175234772092
+[09/24 20:37:15] SegOnCarvana_1664021850 INFO: Epoch:[052/099], Iteration:[00001/00015], Val_loss_all:0.016971
+[09/24 20:37:17] SegOnCarvana_1664021850 INFO: Epoch:[052/099], Iteration:[00015/00015], Val_loss_all:0.014443
+[09/24 20:37:17] SegOnCarvana_1664021850 INFO: Epoch:[052/099], Avg val loss:0.014498088819285234
+[09/24 20:37:17] SegOnCarvana_1664021850 INFO: Avg dice: 0.9930632710456848
+[09/24 20:37:17] SegOnCarvana_1664021850 WARNING: Early stopping triggered: save model and exit. Bset score: 0.9932004809379578
+[09/24 20:37:36] SegOnCarvana_1664021850 INFO: Model saved in ./Results/Carvana/1664021850/UNet_earlystop_ckpt.pth.

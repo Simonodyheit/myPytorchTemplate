@@ -1,0 +1,406 @@
+[09/23 19:35:30] Vanilla_1663932921 INFO: Description: N/A
+[09/23 19:35:30] Vanilla_1663932921 INFO: Model: [Vanilla], Dataset: [FashionMNIST], Lr_scheduler: [step], optimizer: [adamW], batch size: [4]; All saved in ./Results/Vanilla/results/1663932921
+[09/23 19:35:30] Vanilla_1663932921 INFO: Config saved to ./Results/Vanilla/results/1663932921/config_Vanilla_1663932921.json
+[09/23 19:35:30] Vanilla_1663932921 INFO: Current_device: GeForce GTX 1080 Ti
+[09/23 19:35:30] Vanilla_1663932921 INFO: Epoch:[001/099], Iteration:[00001/01020], Train_loss_all:2.295772
+[09/23 19:35:35] Vanilla_1663932921 INFO: Epoch:[001/099], Iteration:[00500/01020], Train_loss_all:0.047210
+[09/23 19:35:40] Vanilla_1663932921 INFO: Epoch:[001/099], Iteration:[01000/01020], Train_loss_all:1.492352
+[09/23 19:35:40] Vanilla_1663932921 INFO: Epoch:[001/099], Iteration:[01020/01020], Train_loss_all:1.555979
+[09/23 19:35:41] Vanilla_1663932921 INFO: Epoch:1: Used time:10.36s; Lr:3.00e-04
+[09/23 19:35:41] Vanilla_1663932921 INFO: Epoch:1: Avg train loss:0.8102556687318628
+[09/23 19:35:41] Vanilla_1663932921 INFO: Epoch:[001/099], Iteration:[00001/00180], Val_loss_all:0.641309
+[09/23 19:35:42] Vanilla_1663932921 INFO: Epoch:[001/099], Iteration:[00180/00180], Val_loss_all:0.448807
+[09/23 19:35:42] Vanilla_1663932921 INFO: Accuracy: 74.0%
+[09/23 19:35:42] Vanilla_1663932921 INFO: Epoch:[001/099], Avg val loss:0.6942717377717297
+[09/23 19:35:42] Vanilla_1663932921 INFO: Best val loss at Epoch:[001/099].
+[09/23 19:35:42] Vanilla_1663932921 INFO: Model saved in ./Results/Vanilla/results/1663932921/Vanilla_best_ckpt.pth.
+[09/23 19:35:42] Vanilla_1663932921 INFO: Epoch:[002/099], Iteration:[00001/01020], Train_loss_all:1.088347
+[09/23 19:35:47] Vanilla_1663932921 INFO: Epoch:[002/099], Iteration:[00500/01020], Train_loss_all:0.995831
+[09/23 19:35:52] Vanilla_1663932921 INFO: Epoch:[002/099], Iteration:[01000/01020], Train_loss_all:0.943047
+[09/23 19:35:52] Vanilla_1663932921 INFO: Epoch:[002/099], Iteration:[01020/01020], Train_loss_all:0.508447
+[09/23 19:35:52] Vanilla_1663932921 INFO: Epoch:2: Used time:10.27s; Lr:3.00e-04
+[09/23 19:35:52] Vanilla_1663932921 INFO: Epoch:2: Avg train loss:0.5307738917989042
+[09/23 19:35:53] Vanilla_1663932921 INFO: Epoch:[002/099], Iteration:[00001/00180], Val_loss_all:0.074949
+[09/23 19:35:54] Vanilla_1663932921 INFO: Epoch:[002/099], Iteration:[00180/00180], Val_loss_all:0.614247
+[09/23 19:35:54] Vanilla_1663932921 INFO: Accuracy: 78.1%
+[09/23 19:35:54] Vanilla_1663932921 INFO: Epoch:[002/099], Avg val loss:0.5807785956371744
+[09/23 19:35:54] Vanilla_1663932921 INFO: Best val loss at Epoch:[002/099].
+[09/23 19:35:54] Vanilla_1663932921 INFO: Model saved in ./Results/Vanilla/results/1663932921/Vanilla_best_ckpt.pth.
+[09/23 19:35:54] Vanilla_1663932921 INFO: Epoch:[003/099], Iteration:[00001/01020], Train_loss_all:0.578426
+[09/23 19:35:59] Vanilla_1663932921 INFO: Epoch:[003/099], Iteration:[00500/01020], Train_loss_all:0.359055
+[09/23 19:36:04] Vanilla_1663932921 INFO: Epoch:[003/099], Iteration:[01000/01020], Train_loss_all:1.395046
+[09/23 19:36:04] Vanilla_1663932921 INFO: Epoch:[003/099], Iteration:[01020/01020], Train_loss_all:0.016470
+[09/23 19:36:04] Vanilla_1663932921 INFO: Epoch:3: Used time:10.27s; Lr:3.00e-04
+[09/23 19:36:04] Vanilla_1663932921 INFO: Epoch:3: Avg train loss:0.4536528439801437
+[09/23 19:36:05] Vanilla_1663932921 INFO: Epoch:[003/099], Iteration:[00001/00180], Val_loss_all:0.823462
+[09/23 19:36:06] Vanilla_1663932921 INFO: Epoch:[003/099], Iteration:[00180/00180], Val_loss_all:0.521254
+[09/23 19:36:06] Vanilla_1663932921 INFO: Accuracy: 76.1%
+[09/23 19:36:06] Vanilla_1663932921 INFO: Epoch:[003/099], Avg val loss:0.7252239792847023
+[09/23 19:36:06] Vanilla_1663932921 INFO: Epoch:[004/099], Iteration:[00001/01020], Train_loss_all:0.054695
+[09/23 19:36:11] Vanilla_1663932921 INFO: Epoch:[004/099], Iteration:[00500/01020], Train_loss_all:0.710161
+[09/23 19:36:16] Vanilla_1663932921 INFO: Epoch:[004/099], Iteration:[01000/01020], Train_loss_all:0.173358
+[09/23 19:36:16] Vanilla_1663932921 INFO: Epoch:[004/099], Iteration:[01020/01020], Train_loss_all:0.614049
+[09/23 19:36:16] Vanilla_1663932921 INFO: Epoch:4: Used time:10.19s; Lr:3.00e-04
+[09/23 19:36:16] Vanilla_1663932921 INFO: Epoch:4: Avg train loss:0.4055389235615639
+[09/23 19:36:16] Vanilla_1663932921 INFO: Epoch:[004/099], Iteration:[00001/00180], Val_loss_all:0.511405
+[09/23 19:36:18] Vanilla_1663932921 INFO: Epoch:[004/099], Iteration:[00180/00180], Val_loss_all:0.224007
+[09/23 19:36:18] Vanilla_1663932921 INFO: Accuracy: 78.5%
+[09/23 19:36:18] Vanilla_1663932921 INFO: Epoch:[004/099], Avg val loss:0.6108540599706531
+[09/23 19:36:18] Vanilla_1663932921 INFO: Epoch:[005/099], Iteration:[00001/01020], Train_loss_all:0.483449
+[09/23 19:36:23] Vanilla_1663932921 INFO: Epoch:[005/099], Iteration:[00500/01020], Train_loss_all:0.078704
+[09/23 19:36:28] Vanilla_1663932921 INFO: Epoch:[005/099], Iteration:[01000/01020], Train_loss_all:0.036102
+[09/23 19:36:28] Vanilla_1663932921 INFO: Epoch:[005/099], Iteration:[01020/01020], Train_loss_all:0.087556
+[09/23 19:36:28] Vanilla_1663932921 INFO: Epoch:5: Used time:10.25s; Lr:3.00e-04
+[09/23 19:36:28] Vanilla_1663932921 INFO: Epoch:5: Avg train loss:0.3620213148312698
+[09/23 19:36:28] Vanilla_1663932921 INFO: Epoch:[005/099], Iteration:[00001/00180], Val_loss_all:0.110793
+[09/23 19:36:29] Vanilla_1663932921 INFO: Epoch:[005/099], Iteration:[00180/00180], Val_loss_all:0.010411
+[09/23 19:36:29] Vanilla_1663932921 INFO: Accuracy: 77.2%
+[09/23 19:36:29] Vanilla_1663932921 INFO: Epoch:[005/099], Avg val loss:0.6096434685809072
+[09/23 19:36:30] Vanilla_1663932921 INFO: Epoch:[006/099], Iteration:[00001/01020], Train_loss_all:0.471984
+[09/23 19:36:35] Vanilla_1663932921 INFO: Epoch:[006/099], Iteration:[00500/01020], Train_loss_all:0.337751
+[09/23 19:36:39] Vanilla_1663932921 INFO: Epoch:[006/099], Iteration:[01000/01020], Train_loss_all:0.478909
+[09/23 19:36:40] Vanilla_1663932921 INFO: Epoch:[006/099], Iteration:[01020/01020], Train_loss_all:0.103652
+[09/23 19:36:40] Vanilla_1663932921 INFO: Epoch:6: Used time:10.22s; Lr:3.00e-04
+[09/23 19:36:40] Vanilla_1663932921 INFO: Epoch:6: Avg train loss:0.3421143640314642
+[09/23 19:36:40] Vanilla_1663932921 INFO: Epoch:[006/099], Iteration:[00001/00180], Val_loss_all:0.266065
+[09/23 19:36:41] Vanilla_1663932921 INFO: Epoch:[006/099], Iteration:[00180/00180], Val_loss_all:0.103384
+[09/23 19:36:41] Vanilla_1663932921 INFO: Accuracy: 77.8%
+[09/23 19:36:41] Vanilla_1663932921 INFO: Epoch:[006/099], Avg val loss:0.595167877116344
+[09/23 19:36:41] Vanilla_1663932921 INFO: Epoch:[007/099], Iteration:[00001/01020], Train_loss_all:0.853511
+[09/23 19:36:46] Vanilla_1663932921 INFO: Epoch:[007/099], Iteration:[00500/01020], Train_loss_all:0.125129
+[09/23 19:36:51] Vanilla_1663932921 INFO: Epoch:[007/099], Iteration:[01000/01020], Train_loss_all:0.004072
+[09/23 19:36:51] Vanilla_1663932921 INFO: Epoch:[007/099], Iteration:[01020/01020], Train_loss_all:0.201633
+[09/23 19:36:52] Vanilla_1663932921 INFO: Epoch:7: Used time:10.31s; Lr:3.00e-04
+[09/23 19:36:52] Vanilla_1663932921 INFO: Epoch:7: Avg train loss:0.3236179843700286
+[09/23 19:36:52] Vanilla_1663932921 INFO: Epoch:[007/099], Iteration:[00001/00180], Val_loss_all:0.499312
+[09/23 19:36:53] Vanilla_1663932921 INFO: Epoch:[007/099], Iteration:[00180/00180], Val_loss_all:1.021800
+[09/23 19:36:53] Vanilla_1663932921 INFO: Accuracy: 81.5%
+[09/23 19:36:53] Vanilla_1663932921 INFO: Epoch:[007/099], Avg val loss:0.5415857151412637
+[09/23 19:36:53] Vanilla_1663932921 INFO: Best val loss at Epoch:[007/099].
+[09/23 19:36:53] Vanilla_1663932921 INFO: Model saved in ./Results/Vanilla/results/1663932921/Vanilla_best_ckpt.pth.
+[09/23 19:36:54] Vanilla_1663932921 INFO: Epoch:[008/099], Iteration:[00001/01020], Train_loss_all:0.073239
+[09/23 19:36:58] Vanilla_1663932921 INFO: Epoch:[008/099], Iteration:[00500/01020], Train_loss_all:0.012367
+[09/23 19:37:03] Vanilla_1663932921 INFO: Epoch:[008/099], Iteration:[01000/01020], Train_loss_all:0.116702
+[09/23 19:37:03] Vanilla_1663932921 INFO: Epoch:[008/099], Iteration:[01020/01020], Train_loss_all:0.855359
+[09/23 19:37:03] Vanilla_1663932921 INFO: Epoch:8: Used time:10.30s; Lr:3.00e-04
+[09/23 19:37:03] Vanilla_1663932921 INFO: Epoch:8: Avg train loss:0.28079077669025776
+[09/23 19:37:04] Vanilla_1663932921 INFO: Epoch:[008/099], Iteration:[00001/00180], Val_loss_all:0.226581
+[09/23 19:37:05] Vanilla_1663932921 INFO: Epoch:[008/099], Iteration:[00180/00180], Val_loss_all:0.001268
+[09/23 19:37:05] Vanilla_1663932921 INFO: Accuracy: 81.9%
+[09/23 19:37:05] Vanilla_1663932921 INFO: Epoch:[008/099], Avg val loss:0.5509703048952764
+[09/23 19:37:05] Vanilla_1663932921 INFO: Epoch:[009/099], Iteration:[00001/01020], Train_loss_all:0.496146
+[09/23 19:37:10] Vanilla_1663932921 INFO: Epoch:[009/099], Iteration:[00500/01020], Train_loss_all:0.061675
+[09/23 19:37:15] Vanilla_1663932921 INFO: Epoch:[009/099], Iteration:[01000/01020], Train_loss_all:0.020807
+[09/23 19:37:15] Vanilla_1663932921 INFO: Epoch:[009/099], Iteration:[01020/01020], Train_loss_all:0.816156
+[09/23 19:37:15] Vanilla_1663932921 INFO: Epoch:9: Used time:10.22s; Lr:3.00e-04
+[09/23 19:37:15] Vanilla_1663932921 INFO: Epoch:9: Avg train loss:0.28000321881623436
+[09/23 19:37:16] Vanilla_1663932921 INFO: Epoch:[009/099], Iteration:[00001/00180], Val_loss_all:0.393535
+[09/23 19:37:17] Vanilla_1663932921 INFO: Epoch:[009/099], Iteration:[00180/00180], Val_loss_all:0.010518
+[09/23 19:37:17] Vanilla_1663932921 INFO: Accuracy: 81.8%
+[09/23 19:37:17] Vanilla_1663932921 INFO: Epoch:[009/099], Avg val loss:0.5292349356833054
+[09/23 19:37:17] Vanilla_1663932921 INFO: Best val loss at Epoch:[009/099].
+[09/23 19:37:17] Vanilla_1663932921 INFO: Model saved in ./Results/Vanilla/results/1663932921/Vanilla_best_ckpt.pth.
+[09/23 19:37:17] Vanilla_1663932921 INFO: Epoch:[010/099], Iteration:[00001/01020], Train_loss_all:0.163959
+[09/23 19:37:22] Vanilla_1663932921 INFO: Epoch:[010/099], Iteration:[00500/01020], Train_loss_all:0.127102
+[09/23 19:37:27] Vanilla_1663932921 INFO: Epoch:[010/099], Iteration:[01000/01020], Train_loss_all:0.931421
+[09/23 19:37:27] Vanilla_1663932921 INFO: Epoch:[010/099], Iteration:[01020/01020], Train_loss_all:0.163406
+[09/23 19:37:27] Vanilla_1663932921 INFO: Epoch:10: Used time:10.24s; Lr:3.00e-04
+[09/23 19:37:27] Vanilla_1663932921 INFO: Epoch:10: Avg train loss:0.268373291502674
+[09/23 19:37:27] Vanilla_1663932921 INFO: Epoch:[010/099], Iteration:[00001/00180], Val_loss_all:0.827271
+[09/23 19:37:29] Vanilla_1663932921 INFO: Epoch:[010/099], Iteration:[00180/00180], Val_loss_all:0.557317
+[09/23 19:37:29] Vanilla_1663932921 INFO: Accuracy: 83.1%
+[09/23 19:37:29] Vanilla_1663932921 INFO: Epoch:[010/099], Avg val loss:0.5141521381708206
+[09/23 19:37:29] Vanilla_1663932921 INFO: Best val loss at Epoch:[010/099].
+[09/23 19:37:29] Vanilla_1663932921 INFO: Model saved in ./Results/Vanilla/results/1663932921/Vanilla_best_ckpt.pth.
+[09/23 19:37:29] Vanilla_1663932921 INFO: Epoch:[011/099], Iteration:[00001/01020], Train_loss_all:0.008516
+[09/23 19:37:34] Vanilla_1663932921 INFO: Epoch:[011/099], Iteration:[00500/01020], Train_loss_all:0.299062
+[09/23 19:37:39] Vanilla_1663932921 INFO: Epoch:[011/099], Iteration:[01000/01020], Train_loss_all:0.000209
+[09/23 19:37:39] Vanilla_1663932921 INFO: Epoch:[011/099], Iteration:[01020/01020], Train_loss_all:0.007497
+[09/23 19:37:39] Vanilla_1663932921 INFO: Epoch:11: Used time:10.24s; Lr:3.00e-04
+[09/23 19:37:39] Vanilla_1663932921 INFO: Epoch:11: Avg train loss:0.25010541185076457
+[09/23 19:37:39] Vanilla_1663932921 INFO: Epoch:[011/099], Iteration:[00001/00180], Val_loss_all:0.028790
+[09/23 19:37:41] Vanilla_1663932921 INFO: Epoch:[011/099], Iteration:[00180/00180], Val_loss_all:1.282042
+[09/23 19:37:41] Vanilla_1663932921 INFO: Accuracy: 82.1%
+[09/23 19:37:41] Vanilla_1663932921 INFO: Epoch:[011/099], Avg val loss:0.5445660685124393
+[09/23 19:37:41] Vanilla_1663932921 INFO: Epoch:[012/099], Iteration:[00001/01020], Train_loss_all:1.078683
+[09/23 19:37:46] Vanilla_1663932921 INFO: Epoch:[012/099], Iteration:[00500/01020], Train_loss_all:0.134577
+[09/23 19:37:51] Vanilla_1663932921 INFO: Epoch:[012/099], Iteration:[01000/01020], Train_loss_all:0.112006
+[09/23 19:37:51] Vanilla_1663932921 INFO: Epoch:[012/099], Iteration:[01020/01020], Train_loss_all:0.117567
+[09/23 19:37:51] Vanilla_1663932921 INFO: Epoch:12: Used time:10.36s; Lr:3.00e-04
+[09/23 19:37:51] Vanilla_1663932921 INFO: Epoch:12: Avg train loss:0.2228112726682898
+[09/23 19:37:51] Vanilla_1663932921 INFO: Epoch:[012/099], Iteration:[00001/00180], Val_loss_all:0.472619
+[09/23 19:37:52] Vanilla_1663932921 INFO: Epoch:[012/099], Iteration:[00180/00180], Val_loss_all:0.630096
+[09/23 19:37:52] Vanilla_1663932921 INFO: Accuracy: 82.6%
+[09/23 19:37:52] Vanilla_1663932921 INFO: Epoch:[012/099], Avg val loss:0.5803846247495243
+[09/23 19:37:53] Vanilla_1663932921 INFO: Epoch:[013/099], Iteration:[00001/01020], Train_loss_all:0.300182
+[09/23 19:37:58] Vanilla_1663932921 INFO: Epoch:[013/099], Iteration:[00500/01020], Train_loss_all:0.331020
+[09/23 19:38:03] Vanilla_1663932921 INFO: Epoch:[013/099], Iteration:[01000/01020], Train_loss_all:0.384624
+[09/23 19:38:03] Vanilla_1663932921 INFO: Epoch:[013/099], Iteration:[01020/01020], Train_loss_all:0.232804
+[09/23 19:38:03] Vanilla_1663932921 INFO: Epoch:13: Used time:10.36s; Lr:3.00e-04
+[09/23 19:38:03] Vanilla_1663932921 INFO: Epoch:13: Avg train loss:0.22200685048637406
+[09/23 19:38:03] Vanilla_1663932921 INFO: Epoch:[013/099], Iteration:[00001/00180], Val_loss_all:1.834715
+[09/23 19:38:04] Vanilla_1663932921 INFO: Epoch:[013/099], Iteration:[00180/00180], Val_loss_all:2.038454
+[09/23 19:38:04] Vanilla_1663932921 INFO: Accuracy: 79.3%
+[09/23 19:38:04] Vanilla_1663932921 INFO: Epoch:[013/099], Avg val loss:0.7874309172863225
+[09/23 19:38:05] Vanilla_1663932921 INFO: Epoch:[014/099], Iteration:[00001/01020], Train_loss_all:0.695984
+[09/23 19:38:10] Vanilla_1663932921 INFO: Epoch:[014/099], Iteration:[00500/01020], Train_loss_all:0.336919
+[09/23 19:38:14] Vanilla_1663932921 INFO: Epoch:[014/099], Iteration:[01000/01020], Train_loss_all:0.258977
+[09/23 19:38:15] Vanilla_1663932921 INFO: Epoch:[014/099], Iteration:[01020/01020], Train_loss_all:0.068983
+[09/23 19:38:15] Vanilla_1663932921 INFO: Epoch:14: Used time:10.30s; Lr:3.00e-04
+[09/23 19:38:15] Vanilla_1663932921 INFO: Epoch:14: Avg train loss:0.20427001269021922
+[09/23 19:38:15] Vanilla_1663932921 INFO: Epoch:[014/099], Iteration:[00001/00180], Val_loss_all:0.352584
+[09/23 19:38:16] Vanilla_1663932921 INFO: Epoch:[014/099], Iteration:[00180/00180], Val_loss_all:0.337851
+[09/23 19:38:16] Vanilla_1663932921 INFO: Accuracy: 81.7%
+[09/23 19:38:16] Vanilla_1663932921 INFO: Epoch:[014/099], Avg val loss:0.6984992883123037
+[09/23 19:38:17] Vanilla_1663932921 INFO: Epoch:[015/099], Iteration:[00001/01020], Train_loss_all:0.081783
+[09/23 19:38:21] Vanilla_1663932921 INFO: Epoch:[015/099], Iteration:[00500/01020], Train_loss_all:0.011657
+[09/23 19:38:26] Vanilla_1663932921 INFO: Epoch:[015/099], Iteration:[01000/01020], Train_loss_all:0.000132
+[09/23 19:38:26] Vanilla_1663932921 INFO: Epoch:[015/099], Iteration:[01020/01020], Train_loss_all:0.167292
+[09/23 19:38:26] Vanilla_1663932921 INFO: Epoch:15: Used time:10.17s; Lr:3.00e-04
+[09/23 19:38:26] Vanilla_1663932921 INFO: Epoch:15: Avg train loss:0.19519850507266517
+[09/23 19:38:27] Vanilla_1663932921 INFO: Epoch:[015/099], Iteration:[00001/00180], Val_loss_all:0.701848
+[09/23 19:38:28] Vanilla_1663932921 INFO: Epoch:[015/099], Iteration:[00180/00180], Val_loss_all:0.548473
+[09/23 19:38:28] Vanilla_1663932921 INFO: Accuracy: 83.1%
+[09/23 19:38:28] Vanilla_1663932921 INFO: Epoch:[015/099], Avg val loss:0.6350069160751773
+[09/23 19:38:28] Vanilla_1663932921 INFO: Epoch:[016/099], Iteration:[00001/01020], Train_loss_all:0.252251
+[09/23 19:38:33] Vanilla_1663932921 INFO: Epoch:[016/099], Iteration:[00500/01020], Train_loss_all:0.055329
+[09/23 19:38:38] Vanilla_1663932921 INFO: Epoch:[016/099], Iteration:[01000/01020], Train_loss_all:0.038411
+[09/23 19:38:38] Vanilla_1663932921 INFO: Epoch:[016/099], Iteration:[01020/01020], Train_loss_all:0.440757
+[09/23 19:38:38] Vanilla_1663932921 INFO: Epoch:16: Used time:10.26s; Lr:3.00e-04
+[09/23 19:38:38] Vanilla_1663932921 INFO: Epoch:16: Avg train loss:0.187075737108853
+[09/23 19:38:39] Vanilla_1663932921 INFO: Epoch:[016/099], Iteration:[00001/00180], Val_loss_all:0.560742
+[09/23 19:38:40] Vanilla_1663932921 INFO: Epoch:[016/099], Iteration:[00180/00180], Val_loss_all:0.084257
+[09/23 19:38:40] Vanilla_1663932921 INFO: Accuracy: 80.7%
+[09/23 19:38:40] Vanilla_1663932921 INFO: Epoch:[016/099], Avg val loss:0.7367442901678374
+[09/23 19:38:40] Vanilla_1663932921 INFO: Epoch:[017/099], Iteration:[00001/01020], Train_loss_all:0.002728
+[09/23 19:38:45] Vanilla_1663932921 INFO: Epoch:[017/099], Iteration:[00500/01020], Train_loss_all:0.000365
+[09/23 19:38:50] Vanilla_1663932921 INFO: Epoch:[017/099], Iteration:[01000/01020], Train_loss_all:0.014445
+[09/23 19:38:50] Vanilla_1663932921 INFO: Epoch:[017/099], Iteration:[01020/01020], Train_loss_all:0.124711
+[09/23 19:38:50] Vanilla_1663932921 INFO: Epoch:17: Used time:10.32s; Lr:3.00e-04
+[09/23 19:38:50] Vanilla_1663932921 INFO: Epoch:17: Avg train loss:0.19029445774754275
+[09/23 19:38:50] Vanilla_1663932921 INFO: Epoch:[017/099], Iteration:[00001/00180], Val_loss_all:1.487557
+[09/23 19:38:52] Vanilla_1663932921 INFO: Epoch:[017/099], Iteration:[00180/00180], Val_loss_all:0.733723
+[09/23 19:38:52] Vanilla_1663932921 INFO: Accuracy: 83.5%
+[09/23 19:38:52] Vanilla_1663932921 INFO: Epoch:[017/099], Avg val loss:0.601408016845456
+[09/23 19:38:52] Vanilla_1663932921 INFO: Epoch:[018/099], Iteration:[00001/01020], Train_loss_all:0.071944
+[09/23 19:38:57] Vanilla_1663932921 INFO: Epoch:[018/099], Iteration:[00500/01020], Train_loss_all:0.134523
+[09/23 19:39:02] Vanilla_1663932921 INFO: Epoch:[018/099], Iteration:[01000/01020], Train_loss_all:0.118870
+[09/23 19:39:02] Vanilla_1663932921 INFO: Epoch:[018/099], Iteration:[01020/01020], Train_loss_all:0.011699
+[09/23 19:39:02] Vanilla_1663932921 INFO: Epoch:18: Used time:10.26s; Lr:3.00e-04
+[09/23 19:39:02] Vanilla_1663932921 INFO: Epoch:18: Avg train loss:0.1638852543596487
+[09/23 19:39:02] Vanilla_1663932921 INFO: Epoch:[018/099], Iteration:[00001/00180], Val_loss_all:0.945418
+[09/23 19:39:04] Vanilla_1663932921 INFO: Epoch:[018/099], Iteration:[00180/00180], Val_loss_all:0.000000
+[09/23 19:39:04] Vanilla_1663932921 INFO: Accuracy: 83.9%
+[09/23 19:39:04] Vanilla_1663932921 INFO: Epoch:[018/099], Avg val loss:0.6091699662491583
+[09/23 19:39:04] Vanilla_1663932921 INFO: Epoch:[019/099], Iteration:[00001/01020], Train_loss_all:0.118196
+[09/23 19:39:09] Vanilla_1663932921 INFO: Epoch:[019/099], Iteration:[00500/01020], Train_loss_all:0.266972
+[09/23 19:39:14] Vanilla_1663932921 INFO: Epoch:[019/099], Iteration:[01000/01020], Train_loss_all:0.540783
+[09/23 19:39:14] Vanilla_1663932921 INFO: Epoch:[019/099], Iteration:[01020/01020], Train_loss_all:0.606671
+[09/23 19:39:14] Vanilla_1663932921 INFO: Epoch:19: Used time:10.27s; Lr:3.00e-04
+[09/23 19:39:14] Vanilla_1663932921 INFO: Epoch:19: Avg train loss:0.14875824470185697
+[09/23 19:39:14] Vanilla_1663932921 INFO: Epoch:[019/099], Iteration:[00001/00180], Val_loss_all:1.875525
+[09/23 19:39:15] Vanilla_1663932921 INFO: Epoch:[019/099], Iteration:[00180/00180], Val_loss_all:0.441539
+[09/23 19:39:15] Vanilla_1663932921 INFO: Accuracy: 84.6%
+[09/23 19:39:15] Vanilla_1663932921 INFO: Epoch:[019/099], Avg val loss:0.6002038684994375
+[09/23 19:39:16] Vanilla_1663932921 INFO: Epoch:[020/099], Iteration:[00001/01020], Train_loss_all:0.036639
+[09/23 19:39:21] Vanilla_1663932921 INFO: Epoch:[020/099], Iteration:[00500/01020], Train_loss_all:0.617229
+[09/23 19:39:26] Vanilla_1663932921 INFO: Epoch:[020/099], Iteration:[01000/01020], Train_loss_all:0.037382
+[09/23 19:39:26] Vanilla_1663932921 INFO: Epoch:[020/099], Iteration:[01020/01020], Train_loss_all:0.714748
+[09/23 19:39:26] Vanilla_1663932921 INFO: Epoch:20: Used time:10.40s; Lr:3.00e-04
+[09/23 19:39:26] Vanilla_1663932921 INFO: Epoch:20: Avg train loss:0.14821362106621355
+[09/23 19:39:26] Vanilla_1663932921 INFO: Epoch:[020/099], Iteration:[00001/00180], Val_loss_all:0.585965
+[09/23 19:39:27] Vanilla_1663932921 INFO: Epoch:[020/099], Iteration:[00180/00180], Val_loss_all:0.159533
+[09/23 19:39:27] Vanilla_1663932921 INFO: Accuracy: 83.3%
+[09/23 19:39:27] Vanilla_1663932921 INFO: Epoch:[020/099], Avg val loss:0.6595233111112319
+[09/23 19:39:28] Vanilla_1663932921 INFO: Epoch:[021/099], Iteration:[00001/01020], Train_loss_all:0.000197
+[09/23 19:39:33] Vanilla_1663932921 INFO: Epoch:[021/099], Iteration:[00500/01020], Train_loss_all:0.007804
+[09/23 19:39:38] Vanilla_1663932921 INFO: Epoch:[021/099], Iteration:[01000/01020], Train_loss_all:0.028955
+[09/23 19:39:38] Vanilla_1663932921 INFO: Epoch:[021/099], Iteration:[01020/01020], Train_loss_all:0.843491
+[09/23 19:39:38] Vanilla_1663932921 INFO: Epoch:21: Used time:10.39s; Lr:3.00e-05
+[09/23 19:39:38] Vanilla_1663932921 INFO: Epoch:21: Avg train loss:0.14930383820101253
+[09/23 19:39:38] Vanilla_1663932921 INFO: Epoch:[021/099], Iteration:[00001/00180], Val_loss_all:0.085668
+[09/23 19:39:39] Vanilla_1663932921 INFO: Epoch:[021/099], Iteration:[00180/00180], Val_loss_all:0.026701
+[09/23 19:39:39] Vanilla_1663932921 INFO: Accuracy: 83.5%
+[09/23 19:39:39] Vanilla_1663932921 INFO: Epoch:[021/099], Avg val loss:0.6510553322577999
+[09/23 19:39:40] Vanilla_1663932921 INFO: Epoch:[022/099], Iteration:[00001/01020], Train_loss_all:0.192127
+[09/23 19:39:44] Vanilla_1663932921 INFO: Epoch:[022/099], Iteration:[00500/01020], Train_loss_all:0.156981
+[09/23 19:39:49] Vanilla_1663932921 INFO: Epoch:[022/099], Iteration:[01000/01020], Train_loss_all:0.212742
+[09/23 19:39:49] Vanilla_1663932921 INFO: Epoch:[022/099], Iteration:[01020/01020], Train_loss_all:0.027860
+[09/23 19:39:49] Vanilla_1663932921 INFO: Epoch:22: Used time:10.18s; Lr:3.00e-05
+[09/23 19:39:49] Vanilla_1663932921 INFO: Epoch:22: Avg train loss:0.09668974355708626
+[09/23 19:39:50] Vanilla_1663932921 INFO: Epoch:[022/099], Iteration:[00001/00180], Val_loss_all:0.286392
+[09/23 19:39:51] Vanilla_1663932921 INFO: Epoch:[022/099], Iteration:[00180/00180], Val_loss_all:0.092744
+[09/23 19:39:51] Vanilla_1663932921 INFO: Accuracy: 84.4%
+[09/23 19:39:51] Vanilla_1663932921 INFO: Epoch:[022/099], Avg val loss:0.6449082063856496
+[09/23 19:39:51] Vanilla_1663932921 INFO: Epoch:[023/099], Iteration:[00001/01020], Train_loss_all:0.004642
+[09/23 19:39:56] Vanilla_1663932921 INFO: Epoch:[023/099], Iteration:[00500/01020], Train_loss_all:0.000029
+[09/23 19:40:01] Vanilla_1663932921 INFO: Epoch:[023/099], Iteration:[01000/01020], Train_loss_all:0.052590
+[09/23 19:40:01] Vanilla_1663932921 INFO: Epoch:[023/099], Iteration:[01020/01020], Train_loss_all:0.028084
+[09/23 19:40:01] Vanilla_1663932921 INFO: Epoch:23: Used time:10.32s; Lr:3.00e-05
+[09/23 19:40:01] Vanilla_1663932921 INFO: Epoch:23: Avg train loss:0.07334755416951699
+[09/23 19:40:02] Vanilla_1663932921 INFO: Epoch:[023/099], Iteration:[00001/00180], Val_loss_all:2.883924
+[09/23 19:40:03] Vanilla_1663932921 INFO: Epoch:[023/099], Iteration:[00180/00180], Val_loss_all:2.114600
+[09/23 19:40:03] Vanilla_1663932921 INFO: Accuracy: 84.4%
+[09/23 19:40:03] Vanilla_1663932921 INFO: Epoch:[023/099], Avg val loss:0.6559075938779857
+[09/23 19:40:03] Vanilla_1663932921 INFO: Epoch:[024/099], Iteration:[00001/01020], Train_loss_all:0.001682
+[09/23 19:40:08] Vanilla_1663932921 INFO: Epoch:[024/099], Iteration:[00500/01020], Train_loss_all:0.017283
+[09/23 19:40:13] Vanilla_1663932921 INFO: Epoch:[024/099], Iteration:[01000/01020], Train_loss_all:0.002690
+[09/23 19:40:13] Vanilla_1663932921 INFO: Epoch:[024/099], Iteration:[01020/01020], Train_loss_all:0.001135
+[09/23 19:40:13] Vanilla_1663932921 INFO: Epoch:24: Used time:10.18s; Lr:3.00e-05
+[09/23 19:40:13] Vanilla_1663932921 INFO: Epoch:24: Avg train loss:0.06636278478138653
+[09/23 19:40:13] Vanilla_1663932921 INFO: Epoch:[024/099], Iteration:[00001/00180], Val_loss_all:1.188143
+[09/23 19:40:15] Vanilla_1663932921 INFO: Epoch:[024/099], Iteration:[00180/00180], Val_loss_all:0.000649
+[09/23 19:40:15] Vanilla_1663932921 INFO: Accuracy: 85.0%
+[09/23 19:40:15] Vanilla_1663932921 INFO: Epoch:[024/099], Avg val loss:0.682327495074636
+[09/23 19:40:15] Vanilla_1663932921 INFO: Epoch:[025/099], Iteration:[00001/01020], Train_loss_all:0.000100
+[09/23 19:40:20] Vanilla_1663932921 INFO: Epoch:[025/099], Iteration:[00500/01020], Train_loss_all:0.006193
+[09/23 19:40:25] Vanilla_1663932921 INFO: Epoch:[025/099], Iteration:[01000/01020], Train_loss_all:0.028590
+[09/23 19:40:25] Vanilla_1663932921 INFO: Epoch:[025/099], Iteration:[01020/01020], Train_loss_all:0.030389
+[09/23 19:40:25] Vanilla_1663932921 INFO: Epoch:25: Used time:10.36s; Lr:3.00e-05
+[09/23 19:40:25] Vanilla_1663932921 INFO: Epoch:25: Avg train loss:0.06126296017277768
+[09/23 19:40:26] Vanilla_1663932921 INFO: Epoch:[025/099], Iteration:[00001/00180], Val_loss_all:0.000001
+[09/23 19:40:27] Vanilla_1663932921 INFO: Epoch:[025/099], Iteration:[00180/00180], Val_loss_all:0.068271
+[09/23 19:40:27] Vanilla_1663932921 INFO: Accuracy: 84.4%
+[09/23 19:40:27] Vanilla_1663932921 INFO: Epoch:[025/099], Avg val loss:0.719313097565396
+[09/23 19:40:27] Vanilla_1663932921 INFO: Epoch:[026/099], Iteration:[00001/01020], Train_loss_all:0.007167
+[09/23 19:40:32] Vanilla_1663932921 INFO: Epoch:[026/099], Iteration:[00500/01020], Train_loss_all:0.001013
+[09/23 19:40:37] Vanilla_1663932921 INFO: Epoch:[026/099], Iteration:[01000/01020], Train_loss_all:0.005646
+[09/23 19:40:37] Vanilla_1663932921 INFO: Epoch:[026/099], Iteration:[01020/01020], Train_loss_all:0.124055
+[09/23 19:40:37] Vanilla_1663932921 INFO: Epoch:26: Used time:10.42s; Lr:3.00e-05
+[09/23 19:40:37] Vanilla_1663932921 INFO: Epoch:26: Avg train loss:0.057119555101646395
+[09/23 19:40:38] Vanilla_1663932921 INFO: Epoch:[026/099], Iteration:[00001/00180], Val_loss_all:1.521927
+[09/23 19:40:39] Vanilla_1663932921 INFO: Epoch:[026/099], Iteration:[00180/00180], Val_loss_all:2.799052
+[09/23 19:40:39] Vanilla_1663932921 INFO: Accuracy: 84.0%
+[09/23 19:40:39] Vanilla_1663932921 INFO: Epoch:[026/099], Avg val loss:0.7641972379061213
+[09/23 19:40:39] Vanilla_1663932921 INFO: Epoch:[027/099], Iteration:[00001/01020], Train_loss_all:0.000055
+[09/23 19:40:44] Vanilla_1663932921 INFO: Epoch:[027/099], Iteration:[00500/01020], Train_loss_all:0.005864
+[09/23 19:40:49] Vanilla_1663932921 INFO: Epoch:[027/099], Iteration:[01000/01020], Train_loss_all:0.537136
+[09/23 19:40:49] Vanilla_1663932921 INFO: Epoch:[027/099], Iteration:[01020/01020], Train_loss_all:0.000046
+[09/23 19:40:49] Vanilla_1663932921 INFO: Epoch:27: Used time:10.30s; Lr:3.00e-05
+[09/23 19:40:49] Vanilla_1663932921 INFO: Epoch:27: Avg train loss:0.05431908154719883
+[09/23 19:40:50] Vanilla_1663932921 INFO: Epoch:[027/099], Iteration:[00001/00180], Val_loss_all:0.000005
+[09/23 19:40:51] Vanilla_1663932921 INFO: Epoch:[027/099], Iteration:[00180/00180], Val_loss_all:0.043500
+[09/23 19:40:51] Vanilla_1663932921 INFO: Accuracy: 83.9%
+[09/23 19:40:51] Vanilla_1663932921 INFO: Epoch:[027/099], Avg val loss:0.7325807087873375
+[09/23 19:40:51] Vanilla_1663932921 INFO: Epoch:[028/099], Iteration:[00001/01020], Train_loss_all:0.216672
+[09/23 19:40:54] Vanilla_1663932921 INFO: Epoch:[028/099], Iteration:[00500/01020], Train_loss_all:0.000040
+[09/23 19:40:59] Vanilla_1663932921 INFO: Epoch:[028/099], Iteration:[01000/01020], Train_loss_all:0.171948
+[09/23 19:40:59] Vanilla_1663932921 INFO: Epoch:[028/099], Iteration:[01020/01020], Train_loss_all:0.011060
+[09/23 19:40:59] Vanilla_1663932921 INFO: Epoch:28: Used time:8.00s; Lr:3.00e-05
+[09/23 19:40:59] Vanilla_1663932921 INFO: Epoch:28: Avg train loss:0.0500933618169614
+[09/23 19:40:59] Vanilla_1663932921 INFO: Epoch:[028/099], Iteration:[00001/00180], Val_loss_all:0.695631
+[09/23 19:41:00] Vanilla_1663932921 INFO: Epoch:[028/099], Iteration:[00180/00180], Val_loss_all:1.190987
+[09/23 19:41:00] Vanilla_1663932921 INFO: Accuracy: 84.4%
+[09/23 19:41:00] Vanilla_1663932921 INFO: Epoch:[028/099], Avg val loss:0.7680856564666624
+[09/23 19:41:00] Vanilla_1663932921 INFO: Epoch:[029/099], Iteration:[00001/01020], Train_loss_all:0.001545
+[09/23 19:41:04] Vanilla_1663932921 INFO: Epoch:[029/099], Iteration:[00500/01020], Train_loss_all:0.241738
+[09/23 19:41:08] Vanilla_1663932921 INFO: Epoch:[029/099], Iteration:[01000/01020], Train_loss_all:0.000539
+[09/23 19:41:09] Vanilla_1663932921 INFO: Epoch:[029/099], Iteration:[01020/01020], Train_loss_all:0.297171
+[09/23 19:41:09] Vanilla_1663932921 INFO: Epoch:29: Used time:8.49s; Lr:3.00e-05
+[09/23 19:41:09] Vanilla_1663932921 INFO: Epoch:29: Avg train loss:0.048260758349465804
+[09/23 19:41:09] Vanilla_1663932921 INFO: Epoch:[029/099], Iteration:[00001/00180], Val_loss_all:0.091617
+[09/23 19:41:10] Vanilla_1663932921 INFO: Epoch:[029/099], Iteration:[00180/00180], Val_loss_all:1.483283
+[09/23 19:41:10] Vanilla_1663932921 INFO: Accuracy: 84.3%
+[09/23 19:41:10] Vanilla_1663932921 INFO: Epoch:[029/099], Avg val loss:0.7808875876871424
+[09/23 19:41:10] Vanilla_1663932921 INFO: Epoch:[030/099], Iteration:[00001/01020], Train_loss_all:0.055487
+[09/23 19:41:14] Vanilla_1663932921 INFO: Epoch:[030/099], Iteration:[00500/01020], Train_loss_all:0.017120
+[09/23 19:41:18] Vanilla_1663932921 INFO: Epoch:[030/099], Iteration:[01000/01020], Train_loss_all:0.000593
+[09/23 19:41:18] Vanilla_1663932921 INFO: Epoch:[030/099], Iteration:[01020/01020], Train_loss_all:0.114748
+[09/23 19:41:19] Vanilla_1663932921 INFO: Epoch:30: Used time:8.73s; Lr:3.00e-05
+[09/23 19:41:19] Vanilla_1663932921 INFO: Epoch:30: Avg train loss:0.045480494238351814
+[09/23 19:41:19] Vanilla_1663932921 INFO: Epoch:[030/099], Iteration:[00001/00180], Val_loss_all:0.000525
+[09/23 19:41:20] Vanilla_1663932921 INFO: Epoch:[030/099], Iteration:[00180/00180], Val_loss_all:0.002326
+[09/23 19:41:20] Vanilla_1663932921 INFO: Accuracy: 84.3%
+[09/23 19:41:20] Vanilla_1663932921 INFO: Epoch:[030/099], Avg val loss:0.8138380082973479
+[09/23 19:41:20] Vanilla_1663932921 INFO: Epoch:[031/099], Iteration:[00001/01020], Train_loss_all:0.051988
+[09/23 19:41:24] Vanilla_1663932921 INFO: Epoch:[031/099], Iteration:[00500/01020], Train_loss_all:0.006175
+[09/23 19:41:29] Vanilla_1663932921 INFO: Epoch:[031/099], Iteration:[01000/01020], Train_loss_all:0.042984
+[09/23 19:41:29] Vanilla_1663932921 INFO: Epoch:[031/099], Iteration:[01020/01020], Train_loss_all:0.003297
+[09/23 19:41:29] Vanilla_1663932921 INFO: Epoch:31: Used time:8.94s; Lr:3.00e-05
+[09/23 19:41:29] Vanilla_1663932921 INFO: Epoch:31: Avg train loss:0.04331630984986123
+[09/23 19:41:29] Vanilla_1663932921 INFO: Epoch:[031/099], Iteration:[00001/00180], Val_loss_all:2.297346
+[09/23 19:41:30] Vanilla_1663932921 INFO: Epoch:[031/099], Iteration:[00180/00180], Val_loss_all:0.000000
+[09/23 19:41:30] Vanilla_1663932921 INFO: Accuracy: 84.6%
+[09/23 19:41:30] Vanilla_1663932921 INFO: Epoch:[031/099], Avg val loss:0.8187439925083996
+[09/23 19:41:30] Vanilla_1663932921 INFO: Epoch:[032/099], Iteration:[00001/01020], Train_loss_all:0.000816
+[09/23 19:41:34] Vanilla_1663932921 INFO: Epoch:[032/099], Iteration:[00500/01020], Train_loss_all:0.025064
+[09/23 19:41:38] Vanilla_1663932921 INFO: Epoch:[032/099], Iteration:[01000/01020], Train_loss_all:0.028822
+[09/23 19:41:38] Vanilla_1663932921 INFO: Epoch:[032/099], Iteration:[01020/01020], Train_loss_all:0.477616
+[09/23 19:41:38] Vanilla_1663932921 INFO: Epoch:32: Used time:8.35s; Lr:3.00e-05
+[09/23 19:41:38] Vanilla_1663932921 INFO: Epoch:32: Avg train loss:0.040943835902517364
+[09/23 19:41:39] Vanilla_1663932921 INFO: Epoch:[032/099], Iteration:[00001/00180], Val_loss_all:0.038860
+[09/23 19:41:40] Vanilla_1663932921 INFO: Epoch:[032/099], Iteration:[00180/00180], Val_loss_all:0.413282
+[09/23 19:41:40] Vanilla_1663932921 INFO: Accuracy: 84.2%
+[09/23 19:41:40] Vanilla_1663932921 INFO: Epoch:[032/099], Avg val loss:0.8779751247249692
+[09/23 19:41:40] Vanilla_1663932921 INFO: Epoch:[033/099], Iteration:[00001/01020], Train_loss_all:0.000102
+[09/23 19:41:45] Vanilla_1663932921 INFO: Epoch:[033/099], Iteration:[00500/01020], Train_loss_all:0.000038
+[09/23 19:41:50] Vanilla_1663932921 INFO: Epoch:[033/099], Iteration:[01000/01020], Train_loss_all:0.094115
+[09/23 19:41:50] Vanilla_1663932921 INFO: Epoch:[033/099], Iteration:[01020/01020], Train_loss_all:0.039707
+[09/23 19:41:50] Vanilla_1663932921 INFO: Epoch:33: Used time:10.31s; Lr:3.00e-05
+[09/23 19:41:50] Vanilla_1663932921 INFO: Epoch:33: Avg train loss:0.038509600095275556
+[09/23 19:41:50] Vanilla_1663932921 INFO: Epoch:[033/099], Iteration:[00001/00180], Val_loss_all:4.136822
+[09/23 19:41:52] Vanilla_1663932921 INFO: Epoch:[033/099], Iteration:[00180/00180], Val_loss_all:0.047100
+[09/23 19:41:52] Vanilla_1663932921 INFO: Accuracy: 84.4%
+[09/23 19:41:52] Vanilla_1663932921 INFO: Epoch:[033/099], Avg val loss:0.8949189796226363
+[09/23 19:41:52] Vanilla_1663932921 INFO: Epoch:[034/099], Iteration:[00001/01020], Train_loss_all:0.000071
+[09/23 19:41:57] Vanilla_1663932921 INFO: Epoch:[034/099], Iteration:[00500/01020], Train_loss_all:0.006519
+[09/23 19:42:02] Vanilla_1663932921 INFO: Epoch:[034/099], Iteration:[01000/01020], Train_loss_all:0.000444
+[09/23 19:42:02] Vanilla_1663932921 INFO: Epoch:[034/099], Iteration:[01020/01020], Train_loss_all:0.029009
+[09/23 19:42:02] Vanilla_1663932921 INFO: Epoch:34: Used time:10.25s; Lr:3.00e-05
+[09/23 19:42:02] Vanilla_1663932921 INFO: Epoch:34: Avg train loss:0.036814382914315893
+[09/23 19:42:02] Vanilla_1663932921 INFO: Epoch:[034/099], Iteration:[00001/00180], Val_loss_all:0.000024
+[09/23 19:42:03] Vanilla_1663932921 INFO: Epoch:[034/099], Iteration:[00180/00180], Val_loss_all:0.613100
+[09/23 19:42:04] Vanilla_1663932921 INFO: Accuracy: 84.3%
+[09/23 19:42:04] Vanilla_1663932921 INFO: Epoch:[034/099], Avg val loss:0.8682037821831311
+[09/23 19:42:04] Vanilla_1663932921 INFO: Epoch:[035/099], Iteration:[00001/01020], Train_loss_all:0.000000
+[09/23 19:42:09] Vanilla_1663932921 INFO: Epoch:[035/099], Iteration:[00500/01020], Train_loss_all:0.004344
+[09/23 19:42:13] Vanilla_1663932921 INFO: Epoch:[035/099], Iteration:[01000/01020], Train_loss_all:0.000506
+[09/23 19:42:14] Vanilla_1663932921 INFO: Epoch:[035/099], Iteration:[01020/01020], Train_loss_all:0.000136
+[09/23 19:42:14] Vanilla_1663932921 INFO: Epoch:35: Used time:10.21s; Lr:3.00e-05
+[09/23 19:42:14] Vanilla_1663932921 INFO: Epoch:35: Avg train loss:0.03460273162983224
+[09/23 19:42:14] Vanilla_1663932921 INFO: Epoch:[035/099], Iteration:[00001/00180], Val_loss_all:2.912657
+[09/23 19:42:15] Vanilla_1663932921 INFO: Epoch:[035/099], Iteration:[00180/00180], Val_loss_all:5.366391
+[09/23 19:42:15] Vanilla_1663932921 INFO: Accuracy: 84.2%
+[09/23 19:42:15] Vanilla_1663932921 INFO: Epoch:[035/099], Avg val loss:0.8695865352143273
+[09/23 19:42:16] Vanilla_1663932921 INFO: Epoch:[036/099], Iteration:[00001/01020], Train_loss_all:0.001733
+[09/23 19:42:21] Vanilla_1663932921 INFO: Epoch:[036/099], Iteration:[00500/01020], Train_loss_all:0.000021
+[09/23 19:42:25] Vanilla_1663932921 INFO: Epoch:[036/099], Iteration:[01000/01020], Train_loss_all:0.005626
+[09/23 19:42:26] Vanilla_1663932921 INFO: Epoch:[036/099], Iteration:[01020/01020], Train_loss_all:0.000184
+[09/23 19:42:26] Vanilla_1663932921 INFO: Epoch:36: Used time:10.34s; Lr:3.00e-05
+[09/23 19:42:26] Vanilla_1663932921 INFO: Epoch:36: Avg train loss:0.03259903628824844
+[09/23 19:42:26] Vanilla_1663932921 INFO: Epoch:[036/099], Iteration:[00001/00180], Val_loss_all:0.065717
+[09/23 19:42:27] Vanilla_1663932921 INFO: Epoch:[036/099], Iteration:[00180/00180], Val_loss_all:0.000076
+[09/23 19:42:27] Vanilla_1663932921 INFO: Accuracy: 84.0%
+[09/23 19:42:27] Vanilla_1663932921 INFO: Epoch:[036/099], Avg val loss:0.9429192599310593
+[09/23 19:42:28] Vanilla_1663932921 INFO: Epoch:[037/099], Iteration:[00001/01020], Train_loss_all:0.000001
+[09/23 19:42:32] Vanilla_1663932921 INFO: Epoch:[037/099], Iteration:[00500/01020], Train_loss_all:0.077613
+[09/23 19:42:37] Vanilla_1663932921 INFO: Epoch:[037/099], Iteration:[01000/01020], Train_loss_all:0.000000
+[09/23 19:42:37] Vanilla_1663932921 INFO: Epoch:[037/099], Iteration:[01020/01020], Train_loss_all:0.006106
+[09/23 19:42:38] Vanilla_1663932921 INFO: Epoch:37: Used time:10.23s; Lr:3.00e-05
+[09/23 19:42:38] Vanilla_1663932921 INFO: Epoch:37: Avg train loss:0.030975634670801194
+[09/23 19:42:38] Vanilla_1663932921 INFO: Epoch:[037/099], Iteration:[00001/00180], Val_loss_all:5.496844
+[09/23 19:42:39] Vanilla_1663932921 INFO: Epoch:[037/099], Iteration:[00180/00180], Val_loss_all:1.372430
+[09/23 19:42:39] Vanilla_1663932921 INFO: Accuracy: 84.9%
+[09/23 19:42:39] Vanilla_1663932921 INFO: Epoch:[037/099], Avg val loss:0.907235925440687
+[09/23 19:42:39] Vanilla_1663932921 INFO: Epoch:[038/099], Iteration:[00001/01020], Train_loss_all:0.043310
+[09/23 19:42:44] Vanilla_1663932921 INFO: Epoch:[038/099], Iteration:[00500/01020], Train_loss_all:0.000037
+[09/23 19:42:49] Vanilla_1663932921 INFO: Epoch:[038/099], Iteration:[01000/01020], Train_loss_all:0.000537
+[09/23 19:42:49] Vanilla_1663932921 INFO: Epoch:[038/099], Iteration:[01020/01020], Train_loss_all:0.042003
+[09/23 19:42:50] Vanilla_1663932921 INFO: Epoch:38: Used time:10.37s; Lr:3.00e-05
+[09/23 19:42:50] Vanilla_1663932921 INFO: Epoch:38: Avg train loss:0.03020231230372305
+[09/23 19:42:50] Vanilla_1663932921 INFO: Epoch:[038/099], Iteration:[00001/00180], Val_loss_all:0.000117
+[09/23 19:42:51] Vanilla_1663932921 INFO: Epoch:[038/099], Iteration:[00180/00180], Val_loss_all:0.993508
+[09/23 19:42:51] Vanilla_1663932921 INFO: Accuracy: 84.0%
+[09/23 19:42:51] Vanilla_1663932921 INFO: Epoch:[038/099], Avg val loss:0.9568107624719535
+[09/23 19:42:51] Vanilla_1663932921 INFO: Epoch:[039/099], Iteration:[00001/01020], Train_loss_all:0.000457
+[09/23 19:42:56] Vanilla_1663932921 INFO: Epoch:[039/099], Iteration:[00500/01020], Train_loss_all:0.007381
+[09/23 19:43:01] Vanilla_1663932921 INFO: Epoch:[039/099], Iteration:[01000/01020], Train_loss_all:0.000003
+[09/23 19:43:01] Vanilla_1663932921 INFO: Epoch:[039/099], Iteration:[01020/01020], Train_loss_all:0.002516
+[09/23 19:43:01] Vanilla_1663932921 INFO: Epoch:39: Used time:10.34s; Lr:3.00e-05
+[09/23 19:43:01] Vanilla_1663932921 INFO: Epoch:39: Avg train loss:0.027608503028889137
+[09/23 19:43:02] Vanilla_1663932921 INFO: Epoch:[039/099], Iteration:[00001/00180], Val_loss_all:1.858572
+[09/23 19:43:03] Vanilla_1663932921 INFO: Epoch:[039/099], Iteration:[00180/00180], Val_loss_all:0.128452
+[09/23 19:43:03] Vanilla_1663932921 INFO: Accuracy: 84.0%
+[09/23 19:43:03] Vanilla_1663932921 INFO: Epoch:[039/099], Avg val loss:0.9740495050750854
+[09/23 19:43:03] Vanilla_1663932921 WARNING: Early stopping triggered: save model and exit. Bset score: 0.85
+[09/23 19:43:03] Vanilla_1663932921 INFO: Model saved in ./Results/Vanilla/results/1663932921/Vanilla_earlystop_ckpt.pth.
