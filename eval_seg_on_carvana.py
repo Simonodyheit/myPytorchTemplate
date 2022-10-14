@@ -8,7 +8,7 @@ import argparse
 
 import torch
 import torch.nn.functional as F
-from base.eval import EvaluatorBase
+from eval import EvaluatorBase
 from utils.meter import AvgMeter
 from loss.dice_loss import dice_coeff, multiclass_dice_coeff
 

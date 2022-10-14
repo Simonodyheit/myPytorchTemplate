@@ -6,7 +6,7 @@
 # --gpu_devices 1 \
 # --data_dir ./dataset
 
-# python trainer_seg.py \
+# python trainer_seg_on_carvana.py \
 # --proj_name SegOnCarvana \
 # --model_type UNet \
 # --data_type Carvana \
@@ -14,7 +14,7 @@
 # --gpu_devices 0 \
 # --data_dir /mnt/data4/Dataset/Carvana/
 
-# python eval_seg.py \
+# python eval_seg_on_carvana.py \
 # --model_path ./Results/Carvana/1664021850/UNet_best_ckpt.pth \
 # --save_path ./test_viz/ \
 # --data_dir /mnt/data4/Dataset/Carvana \

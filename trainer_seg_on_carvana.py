@@ -11,7 +11,7 @@ import torch
 import torch.nn.functional as F
 from torch._C import device
 
-from base.trainer import TrainerBase
+from trainer import TrainerBase
 from loss.dice_loss import dice_coeff, dice_loss, multiclass_dice_coeff
 from utils.clipper import clip_gradient
 from utils.meter import AvgMeter

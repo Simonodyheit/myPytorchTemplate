@@ -9,7 +9,7 @@ import time
 
 import torch
 
-from base.trainer import TrainerBase
+from trainer import TrainerBase
 from utils.clipper import clip_gradient
 from utils.timestamp import timestamp
 from utils.seed import randomseed

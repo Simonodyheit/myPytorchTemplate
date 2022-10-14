@@ -44,9 +44,8 @@ Note that this template is highly bound to the configuration part, which can be 
 ## Structure of The Repo
 ```txt
 .
-├── base # base dir where base classes reside
-│   ├── eval.py # base class for the evaluator with attributes and methods about to be overridden
-│   └── trainer.py # base class for the trainer with attributes and methods about to be overridden
+│── eval.py # base class for the evaluator with attributes and methods about to be overridden
+│── trainer.py # base class for the trainer with attributes and methods about to be overridden
 ├── data
 │   ├── Carvana.py # dataloader for Carvana
 │   └── data_entry.py # dataset selector based on the `data_type`
